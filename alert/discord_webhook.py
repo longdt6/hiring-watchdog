@@ -381,10 +381,10 @@ def main():
 
     webhook_url = args.webhook_url or _get_webhook_url()
     if not webhook_url:
-        print("❌ No Discord webhook URL configured.")
-        print("   Set environment variable: export DISCORD_WEBHOOK_URL=\"https://discord.com/api/webhooks/...\"")
+        print("⚠️  No Discord webhook URL configured — skipping alert.")
+        print("   Set DISCORD_WEBHOOK_URL in .env or GitHub Secrets.")
         print("   Or pass --webhook-url argument")
-        sys.exit(1)
+        sys.exit(0)
 
     # Load report
     report_path = REPORTS_DIR / f"{date_str}.json"
