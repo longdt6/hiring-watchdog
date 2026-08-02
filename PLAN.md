@@ -7,22 +7,30 @@
 ## Tổng Quan Kiến Trúc
 
 ```
-ITViec ──┐
-TopCV ───┤  Crawl tất cả
-          ├──→ [Crawler] ──→ [Raw JSON] ──→ [Merge + Dedup] ──→ [Processed JSON]
-VNW ─────┘                                                       │
-                                                                 ▼
-                                                    ┌─────────────────────┐
-                                                    │ Detection Engine    │
-                                                    │ (pandas + numpy)    │
-                                                    │ ├── Z-Score         │
-                                                    │ ├── CUSUM           │
-                                                    │ ├── Cold Start      │
-                                                    │ └── Salary Ref      │
-                                                    └────────┬────────────┘
-                                                             │
-                                                             ▼
-                                                    [Discord Webhook]
+┌───────────────────────────────── GitHub Actions (miễn phí 2000 phút/tháng) ───────────────┐
+│                                                                                          │
+│  8:00  — Cron trigger                                                                   │
+│                                                                                          │
+│  ITViec ──┐                                                                             │
+│            ├──→ [Crawler] ──→ [Raw JSON] ──→ [Merge + Dedup] ──→ [Processed JSON]       │
+│  VNW ────┘                                                      │                        │
+│                                                                  ▼                        │
+│                                                     ┌─────────────────────┐              │
+│                                                     │ Detection Engine    │              │
+│                                                     │ (pandas + numpy)    │              │
+│                                                     │ ├── Z-Score         │              │
+│                                                     │ ├── CUSUM           │              │
+│                                                     │ ├── Cold Start      │              │
+│                                                     │ └── Salary Ref      │              │
+│                                                     └────────┬────────────┘              │
+│                                                              │                           │
+│                                                              ▼                           │
+│                                                     [Discord Webhook]                    │
+│                                                              │                           │
+│                                                              ▼                           │
+│                                                     git add data/ && git push           │
+│                                                                                          │
+└──────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -64,11 +72,11 @@ VNW ─────┘                                                       │
 - [x] Output: 59 unique jobs từ 2 nguồn (56 ITViec + 3 VNW, 2 duplicates removed)
 
 #### Day 3: Tự Động Hóa ✅ (COMPLETED 2026-08-02)
-- [x] Viết `run_daily.sh`: crawl → merge → save (đã update thêm VNW + merge)
-- [ ] Cron job: chạy 8h sáng mỗi ngày (cần setup trên máy/VPS)
+- [x] Viết `run_daily.sh`: crawl → merge → detect → alert → push
 - [x] Logging: ghi log mỗi lần chạy vào `logs/daily-YYYY-MM-DD.log`
 - [x] Health check: cảnh báo nếu < 20 raw jobs
-- [ ] Backup: git push data (JSON text → git xử lý tốt)
+- [ ] GitHub Actions: `.github/workflows/daily.yml` — cron 8h sáng mỗi ngày
+- [ ] Auto push: git commit + push data/JSON files sau mỗi lần chạy
 
 **Kết thúc Phase 1**: Có data tích lũy mỗi ngày từ ITViec + VietnamWorks. TopCV bị Cloudflare block nên bỏ qua.
 Pipeline: crawl → normalize → dedup → save processed JSON. Sẵn sàng cho Phase 2 (Detection Engine).
@@ -162,7 +170,7 @@ data/
 
 ---
 
-### Phase 3: Discord Alert (~1 ngày)
+### Phase 3: Discord Alert ✅ (COMPLETED 2026-08-02)
 
 **Mục tiêu**: Không cần mở file JSON. Nhận thông báo qua Discord Webhook khi có việc đáng quan tâm.
 
@@ -176,16 +184,17 @@ data/
 - Nếu làm thì là **project riêng**, đọc chung `data/` folder, serve bằng VPS hoặc free-tier hosting.
 - Hiện tại Discord notification là đủ để phát hiện cơ hội. Web UI để sau khi thực sự cần phân tích sâu.
 
-#### Discord Webhook
-- [ ] Setup: tạo Discord server → tạo webhook URL → lưu vào config
-- [ ] `alert/discord_webhook.py`: module gửi message qua webhook
+#### Discord Webhook ✅
+- [x] Setup: tạo Discord server → tạo webhook URL → lưu vào .env
+- [x] `alert/discord_webhook.py`: module gửi message qua webhook
   - Hàm `send_daily_digest(report)`: gửi top alerts + summary
   - Hàm `format_embed(alert)`: tạo Discord Embed từ 1 alert
   - Embed color theo alert level: 🔴 Red = 0xFF0000, 🟠 Orange = 0xFFA500, 🟡 Yellow = 0xFFD700
   - Mỗi alert là 1 embed với: company name, score, job count, detection type, recommendation
   - Summary field: tổng số công ty, breakdown red/orange/yellow
-- [ ] Tích hợp vào `run_daily.sh`: sau `detection/fusion.py` → gửi webhook
-- [ ] Test gửi alert với data thực tế
+  - Đọc webhook URL từ `.env` qua `load_dotenv()` — không cần export, cron cũng đọc được
+- [x] Tích hợp vào `run_daily.sh`: sau `detection/fusion.py` → gửi webhook
+- [x] Test gửi alert với data thực tế — gửi thành công 4 embeds
 
 #### Web UI (Project Riêng — Tương Lai)
 - [ ] Project riêng biệt, đọc `data/` folder (hoặc shared volume nếu dùng VPS)
@@ -196,10 +205,59 @@ data/
 
 ---
 
+### Phase 4: GitHub Actions Deployment
+
+**Mục tiêu**: Chạy pipeline tự động trên GitHub Actions, không cần máy riêng/VPS.
+
+**Tại sao GitHub Actions:**
+- **Miễn phí**: 2000 phút/tháng — pipeline chỉ tốn ~30 phút/tháng
+- **Public repo**: không giới hạn phút chạy
+- **Private repo**: vẫn 2000 phút/tháng (free), 3000 (Pro)
+- **Không cần VPS**: không cần server 24/7. Trigger cron → chạy 2 phút → tắt
+- **Data persistence**: git push JSON files về repo sau mỗi lần chạy
+
+**Tại sao git push thay vì Artifacts:**
+- JSON files (22MB/năm) — quá nhỏ, github repo chịu được ~45 năm mới bị warning
+- Git push → data nằm ngay trong repo, clone về là có lịch sử đầy đủ
+- Artifacts chỉ giữ 90 ngày, không phù hợp cho historical data
+
+#### Setup
+- [ ] Bỏ `data/` khỏi `.gitignore` — cần git push data mỗi ngày để tích lũy history
+- [ ] Tạo `.github/workflows/daily.yml`:
+  ```yaml
+  name: Daily Scan
+  on:
+    schedule:
+      - cron: '0 1 * * *'   # 8:00 AM VN (UTC+7 → 1h UTC)
+    workflow_dispatch:       # Manual trigger để test
+  jobs:
+    scan:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v4
+        - uses: actions/setup-python@v5
+          with: { python-version: '3.11' }
+        - run: pip install -r requirements.txt
+        - run: bash run_daily.sh
+          env:
+            DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        - run: |
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/
+            git diff --staged --quiet || (git commit -m "$(date +%Y-%m-%d) Daily data" && git push)
+  ```
+- [ ] Set GitHub Secret: `DISCORD_WEBHOOK_URL` (Settings → Secrets → Actions)
+
+---
+
 ## Cấu Trúc Thư Mục
 
 ```
 hiring-watchdog/
+├── .github/
+│   └── workflows/
+│       └── daily.yml            # GitHub Actions — cron trigger hàng ngày
 ├── PLAN.md                    # File này
 ├── THEORY.md                  # Lý thuyết nền tảng
 ├── crawlers/
@@ -222,16 +280,17 @@ hiring-watchdog/
 │   └── fusion.py              # Gộp tín hiệu → score cuối
 ├── alert/
 │   ├── __init__.py
-│   └── discord_webhook.py      # Discord Webhook alert
+│   └── discord_webhook.py     # Discord Webhook alert
 ├── config/
 │   ├── settings.py            # API keys, thresholds
 │   └── salary_reference.py    # SALARY_BENCHMARK dict (update 1 lần/năm)
-├── data/                      # Git-ignored (hoặc git LFS)
+├── data/                      # Được git push — JSON files tích lũy history
 │   ├── raw/                   # JSON thô mỗi ngày mỗi nguồn
 │   └── processed/             # Đã merge + dedup
 ├── tests/
 │   └── ...
-├── run_daily.sh               # Entry point cho cron
+├── .env.example               # Template env vars
+├── run_daily.sh               # Entry point cho GitHub Actions
 ├── requirements.txt
 └── README.md
 ```
@@ -246,26 +305,31 @@ hiring-watchdog/
 | Storage | JSON files + `pandas` | 22MB/năm — quá nhỏ, không cần DB engine. git push là backup |
 | Detection | Python + `numpy` + `scipy` | Tính toán thống kê |
 | Alert | Discord Webhook API | Miễn phí, embed đẹp, mobile-friendly, hoạt động ở VN |
-| Scheduler | Cron (macOS/Linux) | Đơn giản, không cần Airflow |
-| Deployment | Local machine / VPS $6-10/tháng | Ổ cứng thật, không cần serverless |
+| Scheduler | GitHub Actions | Cron trigger miễn phí (2000 phút/tháng), không cần VPS |
+| Data Backup | Git push | JSON text — git nén tốt, 22MB/năm (~45 năm mới bị warning) |
+| Deployment | GitHub Actions runner | ubuntu-latest, Python 3.11, chạy 2 phút/ngày rồi tắt |
 
 ---
 
 ## Quy Trình Chạy Hàng Ngày
 
 ```
-8:00  — Cron trigger run_daily.sh
-8:05  — Crawl xong ITViec + VietnamWorks
-8:06  — Merge + dedup + parse salary
-8:07  — Lưu JSON vào data/processed/
-8:08  — Chạy Detection Engine (load 8 tuần gần nhất từ processed/):
+01:00 — GitHub Actions cron trigger (8:00 AM VN, UTC+7)
+01:01 — Checkout repo + pip install dependencies
+01:02 — Crawl xong ITViec + VietnamWorks
+01:03 — Merge + dedup + parse salary
+01:04 — Lưu JSON vào data/processed/
+01:05 — Chạy Detection Engine (load 8 tuần gần nhất từ processed/):
         ├── Với công ty mới (< 14 ngày history) → Cold Start Score
         ├── Với công ty có history → Z-Score + CUSUM
         └── Với công ty có salary → Salary Anomaly
-8:09  — Fusion: gộp tín hiệu, rank theo score → lưu reports/
-8:10  — Discord Webhook: gửi daily digest (top alerts + summary)
-8:10  — Done. Bạn nhận Discord notification, vừa uống cà phê vừa đọc.
+01:06 — Fusion: gộp tín hiệu, rank theo score → lưu reports/
+01:07 — Discord Webhook: gửi daily digest (top alerts + summary)
+01:08 — git add data/ && git commit && git push (backup + tích lũy history)
+01:08 — Done. Bạn nhận Discord notification ~8h sáng, vừa uống cà phê vừa đọc.
 ```
+
+**Tổng runtime**: ~2 phút/ngày → **30 phút/tháng** (dưới giới hạn free 2000 phút)
 
 ---
 

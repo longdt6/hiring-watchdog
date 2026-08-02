@@ -4,10 +4,8 @@ __pycache__/
 .venv/
 *.egg-info/
 
-# Data (quá lớn, không commit lên git)
-data/
-
-# Logs
+# Data — được git push để tích lũy history (JSON text, git nén tốt)
+# 22MB/năm → ~45 năm mới bị warning repo size
 logs/
 
 # Environment

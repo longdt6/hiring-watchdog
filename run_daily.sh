@@ -24,13 +24,15 @@ echo "============================================================"
 echo ""
 
 # ── Activate virtual environment ──────────────────────────────
+# GitHub Actions: không cần venv, deps đã cài toàn cục
+# Local: dùng .venv nếu có
 if [ -f "$SCRIPT_DIR/.venv/bin/activate" ]; then
     source "$SCRIPT_DIR/.venv/bin/activate"
     echo "✅ Virtual environment activated"
+elif [ -n "${GITHUB_ACTIONS:-}" ]; then
+    echo "✅ GitHub Actions runner — using system Python"
 else
-    echo "❌ Virtual environment not found at .venv/"
-    echo "   Run: python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt && playwright install chromium"
-    exit 1
+    echo "⚠️  No virtual environment found, using system Python"
 fi
 
 # ── Phase 1: Crawl ITViec ─────────────────────────────────────

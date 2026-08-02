@@ -1,0 +1,57 @@
+[
+  {
+    "job_id": "2090254",
+    "title": "Giảng Viên Nghiên Cứu Viên Công Nghệ Thông Tin",
+    "company": "Đại Học FPT TP.HCM",
+    "company_id": 210599,
+    "company_size": "100-499",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "salary_raw": "Thương lượng",
+    "cities": [
+      "Ho Chi Minh"
+    ],
+    "skills": [
+      "Trí Tuệ Nhân Tạo",
+      "Khoa Học Máy Tính",
+      "Giảng Dạy",
+      "Công Nghệ Thông Tin",
+      "Công Nghệ Phần Mềm"
+    ],
+    "industries": [
+      "Education/Training"
+    ],
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Thu nhập hấp dẫn"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "FPT CARE"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Đào tạo nâng cao trình độ"
+      }
+    ],
+    "num_recruits": 2,
+    "posted_text": "Đăng 8 giờ trước",
+    "posted_date": "2026-08-02T11:00:47+07:00",
+    "url": "https://www.vietnamworks.com/giang-vien-nghien-cuu-vien-cong-nghe-thong-tin--2090254-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-08-02T19:16:14.937036"
+  }
+]

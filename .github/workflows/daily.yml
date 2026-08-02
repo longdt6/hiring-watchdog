@@ -1,0 +1,61 @@
+# Hiring Watchdog — Daily Scan
+#
+# Chạy mỗi sáng 8:00 AM giờ VN (1:00 AM UTC).
+# Pipeline: crawl → merge → detect → alert (Discord) → git push data
+#
+# Tổng runtime ~2 phút/ngày → 30 phút/tháng (free tier: 2000 phút)
+
+name: Daily Scan
+
+on:
+  schedule:
+    # 8:00 AM Vietnam (UTC+7) → 1:00 AM UTC
+    - cron: '0 1 * * *'
+  workflow_dispatch:  # Manual trigger để test
+
+# Cần quyền push để commit data files
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15  # Safety net — pipeline chỉ tốn ~2 phút
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history để git push và detection có data cũ
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily pipeline
+        run: bash run_daily.sh
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+      - name: Commit and push data
+        if: success() || failure()  # Push cả khi có lỗi (để lưu log + data đã crawl)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage data files + logs
+          git add data/ logs/ 2>/dev/null || true
+
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "$(date +%Y-%m-%d) Daily data"
+            git push
+            echo "✅ Data pushed to repo"
+          fi
