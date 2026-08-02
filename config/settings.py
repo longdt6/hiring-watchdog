@@ -127,3 +127,17 @@ WEIGHT_SALARY = 0.15
 ALERT_RED = 0.70     # Score ≥ 0.70 → Red alert
 ALERT_ORANGE = 0.50  # Score ≥ 0.50 → Orange alert
 ALERT_YELLOW = 0.30  # Score ≥ 0.30 → Yellow (low priority)
+
+# ─── DISCORD WEBHOOK ────────────────────────────────────
+
+# Webhook URL được set qua environment variable DISCORD_WEBHOOK_URL
+# hoặc file .env trong project root.
+# Cách tạo webhook:
+#   1. Discord Server Settings → Integrations → Webhooks → New Webhook
+#   2. Copy Webhook URL: https://discord.com/api/webhooks/{id}/{token}
+
+# Số alert tối đa hiển thị trong 1 daily digest
+DISCORD_MAX_ALERTS = 10
+
+# Có gửi embed chi tiết cho từng alert hay không
+DISCORD_DETAILED_EMBEDS = True

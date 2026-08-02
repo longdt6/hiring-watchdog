@@ -1,6 +1,6 @@
 # Hiring Watchdog — Kế Hoạch Triển Khai
 
-> **Mục tiêu**: Hệ thống tự động quét toàn bộ thị trường tuyển dụng IT, phát hiện công ty đang tuyển ồ ạt hoặc trả lương cao bất thường, gửi cảnh báo qua Telegram.
+> **Mục tiêu**: Hệ thống tự động quét toàn bộ thị trường tuyển dụng IT, phát hiện công ty đang tuyển ồ ạt hoặc trả lương cao bất thường, gửi cảnh báo qua Discord.
 
 ---
 
@@ -22,7 +22,7 @@ VNW ─────┘                                                       │
                                                     └────────┬────────────┘
                                                              │
                                                              ▼
-                                                    [Telegram Bot]
+                                                    [Discord Webhook]
 ```
 
 ---
@@ -162,24 +162,37 @@ data/
 
 ---
 
-### Phase 3: Alert + Dashboard (2-4 tuần)
+### Phase 3: Discord Alert (~1 ngày)
 
-**Mục tiêu**: Không cần mở file JSON. Nhận thông báo qua Telegram khi có việc đáng quan tâm.
+**Mục tiêu**: Không cần mở file JSON. Nhận thông báo qua Discord Webhook khi có việc đáng quan tâm.
 
-#### Week 3: Telegram Bot
-- [ ] Daily digest (8h30 sáng): "Hôm nay top 5 công ty đáng chú ý"
-- [ ] Real-time spike alert: "FPT vừa đăng 30 job mới"
-- [ ] New company alert: "⭐ Phát hiện công ty mới: VinSmart Future, 18 IT jobs"
-- [ ] Commands:
-  - `/stats [company]` — xem lịch sử công ty
-  - `/list` — top anomalies hôm nay
-  - `/watch [company]` — theo dõi thêm công ty
+**Tại sao chỉ Webhook, không làm Bot:**
+- Webhook: cron job chạy xong → POST JSON → tắt. Runtime 2 phút/ngày, không cần server 24/7.
+- Bot: cần process chạy liên tục để listen slash commands — không phù hợp với mô hình cron job.
+- Webhook làm được 90% nhu cầu: daily digest, spike alert, new company alert.
 
-#### Week 4: Streamlit Dashboard
+**Tại sao chưa làm Web UI:**
+- Web UI cần server serve 24/7 — không deploy chung với cron job được.
+- Nếu làm thì là **project riêng**, đọc chung `data/` folder, serve bằng VPS hoặc free-tier hosting.
+- Hiện tại Discord notification là đủ để phát hiện cơ hội. Web UI để sau khi thực sự cần phân tích sâu.
+
+#### Discord Webhook
+- [ ] Setup: tạo Discord server → tạo webhook URL → lưu vào config
+- [ ] `alert/discord_webhook.py`: module gửi message qua webhook
+  - Hàm `send_daily_digest(report)`: gửi top alerts + summary
+  - Hàm `format_embed(alert)`: tạo Discord Embed từ 1 alert
+  - Embed color theo alert level: 🔴 Red = 0xFF0000, 🟠 Orange = 0xFFA500, 🟡 Yellow = 0xFFD700
+  - Mỗi alert là 1 embed với: company name, score, job count, detection type, recommendation
+  - Summary field: tổng số công ty, breakdown red/orange/yellow
+- [ ] Tích hợp vào `run_daily.sh`: sau `detection/fusion.py` → gửi webhook
+- [ ] Test gửi alert với data thực tế
+
+#### Web UI (Project Riêng — Tương Lai)
+- [ ] Project riêng biệt, đọc `data/` folder (hoặc shared volume nếu dùng VPS)
 - [ ] **Trang Home**: Top anomalies hôm nay + 7 ngày qua
 - [ ] **Trang Company Detail**: chart historical job count, salary trend, seniority distribution
 - [ ] **Trang Market Overview**: tổng job/ngày toàn thị trường, top hiring companies, hot roles
-- [ ] **Trang Watchlist**: công ty đang quan tâm
+- [ ] Deploy: VPS $6-10/tháng hoặc free-tier (Render, Fly.io) nếu traffic thấp
 
 ---
 
@@ -192,7 +205,7 @@ hiring-watchdog/
 ├── crawlers/
 │   ├── __init__.py
 │   ├── itviec.py              # Crawler ITViec
-│   ├── topcv.py               # Crawler TopCV
+│   ├── topcv.py               # Crawler TopCV (BLOCKED)
 │   └── vietnamworks.py        # Crawler VietnamWorks
 ├── pipeline/
 │   ├── __init__.py
@@ -209,9 +222,7 @@ hiring-watchdog/
 │   └── fusion.py              # Gộp tín hiệu → score cuối
 ├── alert/
 │   ├── __init__.py
-│   └── telegram_bot.py        # Telegram Bot
-├── dashboard/
-│   └── app.py                 # Streamlit dashboard
+│   └── discord_webhook.py      # Discord Webhook alert
 ├── config/
 │   ├── settings.py            # API keys, thresholds
 │   └── salary_reference.py    # SALARY_BENCHMARK dict (update 1 lần/năm)
@@ -234,8 +245,7 @@ hiring-watchdog/
 | Crawler | Python + `requests` + `BeautifulSoup` | Đơn giản, đủ dùng cho job board VN |
 | Storage | JSON files + `pandas` | 22MB/năm — quá nhỏ, không cần DB engine. git push là backup |
 | Detection | Python + `numpy` + `scipy` | Tính toán thống kê |
-| Alert | Telegram Bot API | Miễn phí, real-time, mobile-friendly |
-| Dashboard | Streamlit | Code ít, giao diện đẹp, Python-native |
+| Alert | Discord Webhook API | Miễn phí, embed đẹp, mobile-friendly, hoạt động ở VN |
 | Scheduler | Cron (macOS/Linux) | Đơn giản, không cần Airflow |
 | Deployment | Local machine / VPS $6-10/tháng | Ổ cứng thật, không cần serverless |
 
@@ -253,7 +263,8 @@ hiring-watchdog/
         ├── Với công ty có history → Z-Score + CUSUM
         └── Với công ty có salary → Salary Anomaly
 8:09  — Fusion: gộp tín hiệu, rank theo score → lưu reports/
-8:10  — Done. Bạn nhận Telegram, vừa uống cà phê vừa đọc.
+8:10  — Discord Webhook: gửi daily digest (top alerts + summary)
+8:10  — Done. Bạn nhận Discord notification, vừa uống cà phê vừa đọc.
 ```
 
 ---

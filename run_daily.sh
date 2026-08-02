@@ -53,6 +53,11 @@ echo ""
 echo "─── Running Detection Engine ───"
 python detection/fusion.py
 
+# ── Phase 5: Discord Alert ─────────────────────────────────
+echo ""
+echo "─── Sending Discord Alert ───"
+python alert/discord_webhook.py
+
 # ── Health check ──────────────────────────────────────────────
 TODAY=$(date +%Y-%m-%d)
 ITVIEC_FILE="data/raw/$TODAY/itviec.json"

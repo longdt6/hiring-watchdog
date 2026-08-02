@@ -12,12 +12,7 @@ scipy==1.14.1
 pandas==2.2.3
 
 # Alert
-python-telegram-bot==21.7
-
-# Dashboard
-streamlit==1.40.0
-pandas==2.2.3
-plotly==5.24.1
+# Using Discord Webhook — no extra library needed, just requests
 
 # Dev / Utils
 python-dotenv==1.0.1
