@@ -1,0 +1,1009 @@
+{
+  "report_date": "2026-08-04",
+  "generated_at": "2026-08-04T04:12:02.973874",
+  "summary": {
+    "total_companies_analyzed": 23,
+    "new_companies": 23,
+    "red_alerts": 0,
+    "orange_alerts": 0,
+    "yellow_alerts": 0,
+    "normal": 23,
+    "companies_with_salary": 0
+  },
+  "alerts": [],
+  "all_scores": [
+    {
+      "company": "Công Ty Cổ Phần Hạ Tầng Hàng Không Masterise",
+      "final_score": 0.25,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.25,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.15,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 1.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Expert, PMO (Consulting Based) Gia Binh International Airport Project"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "CÔNG TY CỔ PHẦN PHÂN PHỐI QUỐC TẾ GENEX",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "E-Commerce Manager"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "CÔNG TY TNHH NANOFILM TECHNOLOGIES VIỆT NAM",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Deputy Manager (Process Engineering)"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công Ty Cổ Phần Chứng Khoán SSI",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Senior UX Designer"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "designer": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công Ty Cổ Phần Tập Đoàn Masterise",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Trưởng Nhóm Nhắc Nợ Khách Hàng Qua Điện Thoại"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "tech_lead": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công Ty TNHH Bảo Hiểm Shinhan Life Việt Nam",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Assistant Manager, Agency Planning"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công Ty TNHH Techtronic Industries Việt Nam Manufacturing",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Leadership Development Program 2026"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công ty Cổ Phần Hạ Tầng Hàng Không Masterise",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Senior Expert, Interface Engineer (ICT infrastructure)"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công ty TNHH Panasonic Electric Works Việt Nam",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "QA Staff / Supervisor (New Factory)"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "qa": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "FWD Vietnam Life Insurance Company Limited",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Manager, Bancassurance Compensation"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Ngân Hàng TMCP Sài Gòn – Hà Nội (SHB)",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Trưởng Phòng Quản Lý Cải Tiến Vận Hành - Khối Vận Hành"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Nikkiso Vietnam, INC.",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Gấp!!! Nhân Viên Kiểm Tra Chất Lượng (Inspection Staff/ Không Yêu Cầu Kinh Nghiệm)"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "SEI Electronic Components (Vietnam), Ltd.",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Kỹ Sư Quản Lý Chất Lượng Sản Phẩm Mới (QA-NPI)"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "qa": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Techcom Securities (Tcbs)",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Chuyên Gia Digital Marketing & AI"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "VPBank - Https://tuyendung.vpbank.com.vn/",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Senior System Engineer (Focus Openstack) Id6792"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Chi Nhánh Trung Tâm Công Nghệ Thông Tin Tập Đoàn Bảo Việt",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 2,
+            "unique_roles": 2,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 2,
+        "job_titles": [
+          "Chuyên Viên Lập Trình Backend (Backend Developer)",
+          "Chuyên Viên An Ninh Bảo Mật (Security Engineer) - Mã Số: Anbm-03"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "backend": 1,
+          "security": 1
+        }
+      },
+      "recommendation": "Công ty mới, 2 jobs IT"
+    },
+    {
+      "company": "Concentrix",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 2,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 2,
+        "job_titles": [
+          "Quality Assurance, Customer Service (Japanese Speaking)",
+          "Quality Assurance - Mandarin Speaking"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "qa": 2
+        }
+      },
+      "recommendation": "Công ty mới, 2 jobs IT"
+    },
+    {
+      "company": "Công Ty Cổ Phần Sóng Thần Hà Nội",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "EC Planner"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công Ty TNHH Thiết Bị Minh Tâm (Mitalab Co., Ltd)",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Lập Trình Viên"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "K2 SOLUTIONS CO., LTD.",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Network Engineer (M/f/d)"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "network": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "KAS E&C (Vietnam) Ltd Company",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Kỹ Sư Shop Drawing – Làm Việc Tại Dự Án Tây Mỗ, Hà Nội và Dự Án Hải Dương"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Sumitomo Electric Interconnect Products (Vietnam), Ltd. [Sepv]",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 2,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 2,
+        "job_titles": [
+          "Nhân Viên Hành Chính (Hợp Đồng 9 Tháng - Tiếng Nhật N3)",
+          "Nhân Viên Truyền Thông - Tuyển Dụng (Ads & Content)"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 2
+        }
+      },
+      "recommendation": "Công ty mới, 2 jobs IT"
+    },
+    {
+      "company": "Vietnamworks' Client",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Electrical Engineer"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    }
+  ]
+}
