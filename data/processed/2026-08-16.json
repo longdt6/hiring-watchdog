@@ -1,0 +1,179 @@
+[
+  {
+    "job_id": "vietnamworks:2095848",
+    "title": "Nhân Viên Kỹ Thuật Cơ khí",
+    "company": "Terumo Vietnam Co., Ltd",
+    "company_normalized": "Terumo Vietnam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Autocad",
+      "Solidworks",
+      "Chế Tạo Máy",
+      "Thiết kế",
+      "Cơ Khí"
+    ],
+    "posted_date": "2026-08-15T14:57:22+07:00",
+    "url": "https://www.vietnamworks.com/nhan-vien-ky-thuat-co-khi-2095848-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-08-16T02:19:42.755211",
+    "company_id": 20420,
+    "company_size": "1,000-4,999",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Thưởng chuyên cần, Trợ cấp đi lại và nhà ở\nThưởng kinh doanh, Thưởng Tết âm lịch, Thưởng lễ (30/04; 02/09), Thưởng Tết dương lịch\nHỗ trợ tiêm phòng cúm, hỗ trợ xăng dầu"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Đóng bảo hiểm tai nạn 24/7 và bảo hiểm bắt buộc theo quy định của Luật"
+      },
+      {
+        "benefitId": 11,
+        "benefitIconName": "fa-cab",
+        "benefitName": "Transportation",
+        "benefitNameVI": "Xe đưa đón",
+        "benefitValue": "Xe đưa đón tại một số điểm nội thành Hà Nội và khu vực lân cận"
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Được vinh danh trong danh sách \"Nơi làm việc tốt nhất Châu Á\" (do Tạp chí nhân sự HR Asia bình chọn)\nLộ trình thăng tiến rõ ràng\nĐánh giá năng lực và điều chỉnh lương hàng năm\nMức lương cạnh tranh, phụ thuộc vào kỹ năng và kinh nghiệm của ứng viên"
+      }
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "num_recruits": 3,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 18 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2095816",
+    "title": "Chuyên Viên Đăng Kiểm Mảng Oto/ Xe Máy Điện/ Xe Bus Điện",
+    "company": "Vinfast Trading And Production JSC",
+    "company_normalized": "Vinfast Trading And Production",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Hai Phong"
+    ],
+    "skills": [
+      "Automotive",
+      "Standards And Regulations",
+      "Documentation Skills",
+      "Teamwork",
+      "Communications"
+    ],
+    "posted_date": "2026-08-15T09:59:46+07:00",
+    "url": "https://www.vietnamworks.com/chuyen-vien-dang-kiem-mang-oto-xe-may-dien-xe-bus-dien-2095816-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-08-16T02:19:44.788075",
+    "company_id": 273080,
+    "company_size": "10,000-19,999",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "•\tCompetitive income (including 13th-month salary, performance bonuses, and other rewards as regulated by Vingroup)."
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "•\tHigh-quality health insurance"
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "•\tWorking in a safe, modern, civilized, and professional environment with numerous opportunities for personal development, and even take the lead."
+      }
+    ],
+    "industries": [
+      "Automotive"
+    ],
+    "num_recruits": 5,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 23 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2095862",
+    "title": "Nhân Viên Lập Trình/ Quản Trị Hệ Thống",
+    "company": "Vietnamworks' Client",
+    "company_normalized": "Vietnamworks' Client",
+    "salary": {
+      "type": "range",
+      "min": 500.0,
+      "max": 1000.0,
+      "currency": "USD",
+      "text": "$ 500-1,000 /tháng"
+    },
+    "cities": [
+      "Dong Nai"
+    ],
+    "skills": [
+      "IT Phần Mềm",
+      "IT Phần Cứng",
+      "Lập Trình",
+      "Quản Trị Mạng",
+      "PosgresSQL"
+    ],
+    "posted_date": "2026-08-15T15:49:11+07:00",
+    "url": "https://www.vietnamworks.com/nhan-vien-lap-trinh-quan-tri-he-thong-2095862-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-08-16T02:20:38.680697",
+    "company_id": 389065,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "BHXH, BHYT, BHTN, BHLĐ theo luật"
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "Số ngày nghỉ phép theo qui định của Pháp luật hiện hành."
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Tăng lương định kì theo qui định của pháp luật.\r\nNghỉ mát theo chế độ.\r\nĐược tuyển dụng viên chức theo qui định của pháp luật."
+      }
+    ],
+    "industries": [
+      "Medical Services/Healthcare"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "$ 500-1,000 /tháng",
+    "posted_text": "Đăng 17 giờ trước"
+  }
+]
