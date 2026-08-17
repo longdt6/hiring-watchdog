@@ -1,0 +1,53 @@
+[
+  {
+    "job_id": "vietnamworks:2095895",
+    "title": "Utilities Engineer",
+    "company": "Công Ty TNHH Saint- Gobain Việt Nam",
+    "company_normalized": "Công Ty TNHH Saint- Gobain Việt Nam",
+    "salary": {
+      "type": "range",
+      "min": 15000000.0,
+      "max": 18000000.0,
+      "currency": "VND",
+      "text": "15tr-18tr ₫/tháng"
+    },
+    "cities": [
+      "Ho Chi Minh"
+    ],
+    "skills": [
+      "Maintenance",
+      "Industrial Refrigeration",
+      "Equipment Maintenance",
+      "Electrical",
+      "Automation"
+    ],
+    "posted_date": "2026-08-16T19:19:10+07:00",
+    "url": "https://www.vietnamworks.com/utilities-engineer--2095895-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-08-17T02:18:23.741209",
+    "company_id": 421084,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "KPI Bonus"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Chương trình chăm sóc sức khỏe cho nhân viên & người thân trực tiếp"
+      }
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "15tr-18tr ₫/tháng",
+    "posted_text": "Đăng 13 giờ trước"
+  }
+]
