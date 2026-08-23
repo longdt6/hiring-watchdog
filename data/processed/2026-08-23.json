@@ -1,0 +1,217 @@
+[
+  {
+    "job_id": "vietnamworks:2098742",
+    "title": "[HO] - MIS Developer",
+    "company": "Shinhan Bank Vietnam",
+    "company_normalized": "Shinhan Bank Vietnam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ho Chi Minh"
+    ],
+    "skills": [
+      "Banking",
+      "Business Intelligence",
+      "Data analysis",
+      "Power Bi",
+      "Mis"
+    ],
+    "posted_date": "2026-08-22T11:04:54+07:00",
+    "url": "https://www.vietnamworks.com/ho-mis-developer-2098742-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-08-23T02:22:29.621095",
+    "company_id": 7701,
+    "company_size": "500-999",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "1"
+      }
+    ],
+    "industries": [
+      "IT Software/SaaS"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 22 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2098769",
+    "title": "Automation Test Lead",
+    "company": "Hệ thống Giáo Dục Edufit",
+    "company_normalized": "Hệ thống Giáo Dục Edufit",
+    "salary": {
+      "type": "range",
+      "min": 40000000.0,
+      "max": 50000000.0,
+      "currency": "VND",
+      "text": "40tr-50tr ₫/tháng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Automation Testing",
+      "Playwright/Cypress/Selenium",
+      "Api Testing",
+      "Ci/Cd Và Git",
+      "Giao Tiếp Chủ Động"
+    ],
+    "posted_date": "2026-08-22T15:57:52+07:00",
+    "url": "https://www.vietnamworks.com/automation-test-lead-2098769-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-08-23T02:22:58.197251",
+    "company_id": 278632,
+    "company_size": "1,000-4,999",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Thưởng Lễ, Tết, KPI và các chế độ phúc lợi hấp dẫn."
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Tham gia BHXH đầy đủ và khám sức khỏe định kỳ."
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "Chế độ nghỉ hè, nghỉ đông hưởng nguyên lương."
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Đào tạo bài bản, lộ trình phát triển và thăng tiến rõ ràng."
+      },
+      {
+        "benefitId": 9,
+        "benefitIconName": "fa-plane",
+        "benefitName": "Travel Opportunities",
+        "benefitNameVI": "Cơ hội du lịch",
+        "benefitValue": "Du lịch hằng năm."
+      },
+      {
+        "benefitId": 12,
+        "benefitIconName": "fa-coffee",
+        "benefitName": "Canteen",
+        "benefitNameVI": "Căn-tin",
+        "benefitValue": "Miễn phí bữa trưa tại công ty."
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Chính sách ưu đãi học phí dành cho con CBNV.\nMôi trường làm việc quốc tế, chuyên nghiệp, trẻ trung và năng động."
+      }
+    ],
+    "industries": [
+      "Education/Training"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "40tr-50tr ₫/tháng",
+    "posted_text": "Đăng 17 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2098746",
+    "title": "Chuyên Viên Cao Cấp Tuyển Dụng Talent Acquisition Specialist",
+    "company": "Capital House Group",
+    "company_normalized": "Capital House",
+    "salary": {
+      "type": "range",
+      "min": 25000000.0,
+      "max": 30000000.0,
+      "currency": "VND",
+      "text": "25tr-30tr ₫/tháng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Tìm kiếm và thu hút nhân tài",
+      "Phỏng Vấn Ứng Viên",
+      "Nghiên Cứu Thị Trường",
+      "Quản lý tuyển dụng",
+      "Tinh Thần Tập Thể"
+    ],
+    "posted_date": "2026-08-22T11:41:00+07:00",
+    "url": "https://www.vietnamworks.com/chuyen-vien-cao-cap-tuyen-dung-talent-acquisition-specialist-2098746-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-08-23T02:23:14.611020",
+    "company_id": 65130,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Theo Chính sách Tập đoàn"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Theo Chính sách Tập đoàn"
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "Theo Chính sách Tập đoàn"
+      },
+      {
+        "benefitId": 7,
+        "benefitIconName": "fa-laptop",
+        "benefitName": "Laptop",
+        "benefitNameVI": "Máy tính xách tay",
+        "benefitValue": "Trang bị cho công việc"
+      },
+      {
+        "benefitId": 9,
+        "benefitIconName": "fa-plane",
+        "benefitName": "Travel Opportunities",
+        "benefitNameVI": "Cơ hội du lịch",
+        "benefitValue": "Theo Chính sách Tập đoàn"
+      },
+      {
+        "benefitId": 10,
+        "benefitIconName": "fa-glass",
+        "benefitName": "Team Activities",
+        "benefitNameVI": "Hoạt động nhóm",
+        "benefitValue": "Theo Chính sách Tập đoàn"
+      },
+      {
+        "benefitId": 12,
+        "benefitIconName": "fa-coffee",
+        "benefitName": "Canteen",
+        "benefitNameVI": "Căn-tin",
+        "benefitValue": "Theo Chính sách Tập đoàn"
+      }
+    ],
+    "industries": [
+      "Real Estate/Rental/Leasing"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "25tr-30tr ₫/tháng",
+    "posted_text": "Đăng 21 giờ trước"
+  }
+]
