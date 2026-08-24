@@ -1,0 +1,57 @@
+[
+  {
+    "job_id": "2098802",
+    "title": "Trình Dược Viên (Kênh Nhà Thuốc - OTC) - Ngành hàng Dược phẩm - Hải Dương",
+    "company": "Abbott",
+    "company_id": 3513,
+    "company_size": "",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "salary_raw": "Thương lượng",
+    "cities": [
+      "Hai Duong"
+    ],
+    "skills": [
+      "Trình Dược Viên OTC",
+      "Medical Representative",
+      "OTC",
+      "Otc Medical Representative",
+      "Network Nhà Thuốc"
+    ],
+    "industries": [
+      "Medical Services/Healthcare"
+    ],
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "13-month salary & performance bonus"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Premium Healthcare for individual & family members"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Training & Development opportunities"
+      }
+    ],
+    "num_recruits": 1,
+    "posted_text": "Đăng 18 giờ trước",
+    "posted_date": "2026-08-23T15:01:00+07:00",
+    "url": "https://www.vietnamworks.com/trinh-duoc-vien-kenh-nha-thuoc-otc-nganh-hang-duoc-pham-hai-duong-2098802-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-08-24T02:21:44.188469"
+  }
+]
