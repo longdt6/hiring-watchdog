@@ -1,0 +1,1122 @@
+{
+  "report_date": "2026-09-08",
+  "generated_at": "2026-09-08T05:36:23.337539",
+  "summary": {
+    "total_companies_analyzed": 24,
+    "new_companies": 24,
+    "red_alerts": 0,
+    "orange_alerts": 0,
+    "yellow_alerts": 1,
+    "normal": 23,
+    "companies_with_salary": 0
+  },
+  "alerts": [
+    {
+      "company": "Chi Nhánh Trung Tâm Công Nghệ Thông Tin Tập Đoàn Bảo Việt",
+      "final_score": 0.3,
+      "alert_level": "yellow",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.30000000000000004,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.2,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 7,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Chuyên Viên Lập Trình Backend (Backend Developer)"
+        ],
+        "days_active": 5,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "backend": 2,
+          "network": 1,
+          "data_analyst": 1,
+          "ba": 1,
+          "general": 1,
+          "devops": 1,
+          "security": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    }
+  ],
+  "all_scores": [
+    {
+      "company": "Chi Nhánh Trung Tâm Công Nghệ Thông Tin Tập Đoàn Bảo Việt",
+      "final_score": 0.3,
+      "alert_level": "yellow",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.30000000000000004,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.2,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 7,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Chuyên Viên Lập Trình Backend (Backend Developer)"
+        ],
+        "days_active": 5,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "backend": 2,
+          "network": 1,
+          "data_analyst": 1,
+          "ba": 1,
+          "general": 1,
+          "devops": 1,
+          "security": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Ngân Hàng TMCP Đại Chúng Việt Nam",
+      "final_score": 0.287,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.2866666666666666,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.12,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 6,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.81
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Chuyên Gia Quản Trị và Phân Tích Danh Mục, Phòng Quản Trị Rủi Ro Tín Dụng và Phân Tích Danh Mục, Khối Quản Trị Rủi Ro"
+        ],
+        "days_active": 10,
+        "it_ratio": 0.81,
+        "role_categories": {
+          "non_it": 4,
+          "general": 4,
+          "data_analyst": 2,
+          "security": 1,
+          "qa": 1,
+          "data": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "IGS Group Vietnam Company Limited",
+      "final_score": 0.22,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.22,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.12,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 3,
+            "unique_roles": 4,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 3,
+        "job_titles": [
+          "UI/UX Designer (Web-Based Systems)",
+          "Business Analyst (Financial Services Software)",
+          "Fullstack TypeScript Engineer"
+        ],
+        "days_active": 2,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "designer": 1,
+          "ba": 1,
+          "fullstack": 1,
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 3 jobs IT"
+    },
+    {
+      "company": "Avery Dennison Vietnam",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Quality Control Team Leader (Long Hau Factory)"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "engineering_manager": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Coca-Cola Beverages Vietnam",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "It- Strategy & Business Partnering Manager – Successfactors Focus"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "engineering_manager": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "CÔNG TY CỔ PHẦN PHÂN PHỐI QUỐC TẾ GENEX",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "E-Commerce Manager"
+        ],
+        "days_active": 2,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 2
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "CÔNG TY TNHH TƯ VẤN VÀ PHÁT TRIỂN PHẦN MỀM DEVILINK",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 2,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Senior Backend Developer (Django & DRF) - Remote | Vietnam-based | Flexible Hours | Full-time"
+        ],
+        "days_active": 2,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "backend": 1,
+          "frontend": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công ty TNHH Công nghiệp ADCEL Việt Nam",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Trưởng Phòng QA-QC"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "qa": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "NIKKISO VIETNAM, INC.",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 2,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "[Urgent Hiring] Purchasing Staff – Excellent English Required"
+        ],
+        "days_active": 2,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "designer": 1,
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Ngân Hàng TNHH MTV Kỷ Nguyên Thịnh Vượng - GPBank",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Chuyên Gia Bảo Mật CNTT (Leader Pentest)"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "security": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Piaggio Vietnam Co., Ltd (Pvn)",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Pricing Staff"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "SPS Vietnam Company Ltd.",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Senior Solution Architect"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Asahi Intecc Hanoi Co., Ltd.",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 2,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Kỹ Sư Lập Trình"
+        ],
+        "days_active": 2,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 1,
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Bitexco Power Corporation",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "IT Supporter/ IT Helpdesk"
+        ],
+        "days_active": 2,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 2
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Bosch Global Software Technologies Company Limited",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 2,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Junior DevOps Engineer (1-3 Years of Experience)"
+        ],
+        "days_active": 3,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "devops": 2,
+          "embedded": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Concentrix",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 2,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 2,
+        "job_titles": [
+          "Quality Assurance Analyst – Customer Service (Japanese Speaking)",
+          "Quality Assurance - Mandarin Speaking"
+        ],
+        "days_active": 2,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "qa": 4
+        }
+      },
+      "recommendation": "Công ty mới, 2 jobs IT"
+    },
+    {
+      "company": "Cong ty TNHH XD Truong Xuan",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Kế Toán Nội Bộ"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công Ty TNHH Contoura New Insole Technology Development",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "QM Supervisor"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công Ty TNHH Quảng Cáo Và Nội Thất Hùng Sơn - Đệm Xinh Luxry",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Kế Toán Tổng Hợp"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công Ty TNHH Thiết Bị Minh Tâm (Mitalab Co., Ltd)",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 2,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Lập Trình Viên"
+        ],
+        "days_active": 4,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 2,
+          "non_it": 2
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "HYUNDAI HT VINA",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Technical Support Engineer - Hanoi"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Hệ thống Giáo Dục Edufit",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 2,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.67
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Manual Tester"
+        ],
+        "days_active": 2,
+        "it_ratio": 0.67,
+        "role_categories": {
+          "qa": 1,
+          "frontend": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "KAS E&C (Vietnam) Ltd Company",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 2,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Kỹ Sư Hiện Trường (Site Engineer) Tại Dự Án Hà Nội, Hải Phòng"
+        ],
+        "days_active": 3,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 2,
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Sumitomo NACCO Forklift Vietnam Co., Ltd.",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Kỹ Sư Thiết Kế (Phần Mềm Điều Khiển Xe Nâng)"
+        ],
+        "days_active": 2,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "designer": 2
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    }
+  ]
+}
