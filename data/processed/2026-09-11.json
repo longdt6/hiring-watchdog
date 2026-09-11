@@ -1,0 +1,2601 @@
+[
+  {
+    "job_id": "vietnamworks:2105902",
+    "title": "Production Planner",
+    "company": "CÔNG TY TNHH AJAX SYSTEMS VIỆT NAM",
+    "company_normalized": "CÔNG TY TNHH AJAX SYSTEMS VIỆT NAM",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Hung Yen",
+      "Ha Noi"
+    ],
+    "skills": [
+      "Econometrics Analysis",
+      "excel",
+      "analytical skills",
+      "Production Planning",
+      "Phần Mềm 1C"
+    ],
+    "posted_date": "2026-09-11T11:36:12+07:00",
+    "url": "https://www.vietnamworks.com/production-planner-2105902-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:35:34.062244",
+    "company_id": 405583,
+    "company_size": "100-499",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Medical insurance"
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "Paid vacation of calendar days"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Opportunities for professional growth"
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Comfortable working conditions"
+      }
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2105835",
+    "title": "[Hà Nội] Kế Toán Tổng Hợp Cho Công Ty FDI | Nghỉ T7-CN | Thu Nhập Từ 14M++",
+    "company": "Công Ty TNHH CP DHU",
+    "company_normalized": "Công Ty TNHH CP DHU",
+    "salary": {
+      "type": "range",
+      "min": 14000000.0,
+      "max": 0.0,
+      "currency": "VND",
+      "text": "Từ 14tr ₫/tháng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Hạch Toán",
+      "Quản Lý Công Nợ",
+      "Quản Lý Thu Chi",
+      "Misa Accounting Software",
+      "Báo cáo thuế"
+    ],
+    "posted_date": "2026-09-11T10:21:26+07:00",
+    "url": "https://www.vietnamworks.com/ha-noi-ke-toan-tong-hop-cho-cong-ty-fdi-nghi-t7-cn-thu-nhap-tu-14m-1789096805774213651-2105835-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:35:35.877599",
+    "company_id": 262451,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Lương tháng thứ 13, thưởng 30/4-1/5. Được tham gia khóa đào tạo 1-2 lần trong năm"
+      },
+      {
+        "benefitId": 9,
+        "benefitIconName": "fa-plane",
+        "benefitName": "Travel Opportunities",
+        "benefitNameVI": "Cơ hội du lịch",
+        "benefitValue": "Làm việc từ thứ 2 tới thứ 6, nghỉ thứ 7 và chủ nhật. Nghỉ du lịch hè hàng năm"
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Thu nhập từ 14M++, hàng năm điều chỉnh tăng lương một lần"
+      }
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Từ 14tr ₫/tháng",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2105761",
+    "title": "Kỹ Sư Hệ Thống Mạng (Thu Nhập: Từ 250 Triệu 400 Triệu/năm)",
+    "company": "Công ty cổ phần Công nghệ thông tin, Viễn thông và Tự động hóa Dầu khí (PAIC)",
+    "company_normalized": "Công ty cổ phần Công nghệ thông tin, Viễn thông và Tự động hóa Dầu khí (PAIC)",
+    "salary": {
+      "type": "range",
+      "min": 250000000.0,
+      "max": 400000000.0,
+      "currency": "VND",
+      "text": "250tr-400tr ₫/năm"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Quản Trị Hệ Thống",
+      "Hệ Thống Ảo Hóa",
+      "Linux",
+      "Quản Trị Máy Chủ",
+      "Server Management"
+    ],
+    "posted_date": "2026-09-11T10:09:13+07:00",
+    "url": "https://www.vietnamworks.com/ky-su-he-thong-mang-thu-nhap-tu-250-trieu-400-trieunam--2105761-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:35:35.877632",
+    "company_id": 289529,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Lương thỏa thuận xứng đáng theo năng lực và kinh nghiệm. Chế độ thưởng theo hiệu quả công việc trong các dự án tham gia."
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Hưởng đầy đủ các chế độ theo quy định của công ty và pháp luật hiện hành như: bảo hiểm y tế, bảo hiểm xã hội."
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "Mức lương cụ thể: Thỏa thuận trong quá trình phỏng vấn."
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Môi trường làm việc ổn định với cơ hội xây dựng sự nghiệp bền vững, lâu dài.\r\nĐánh giá hiệu quả công việc, mức độ cống hiến và tăng lương định kỳ."
+      }
+    ],
+    "industries": [
+      "IT Software/SaaS"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "250tr-400tr ₫/năm",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2105158",
+    "title": "Kế Toán Công Nợ Kênh MT (Có Lộ Trình Lên Kế Toán Tổng Hợp)",
+    "company": "Công Ty TNHH Trading Perfect Partner",
+    "company_normalized": "Công Ty TNHH Trading Perfect Partner",
+    "salary": {
+      "type": "range",
+      "min": 15000000.0,
+      "max": 18000000.0,
+      "currency": "VND",
+      "text": "15tr-18tr ₫/tháng"
+    },
+    "cities": [
+      "Ho Chi Minh"
+    ],
+    "skills": [
+      "Đối Chiếu Công Nợ",
+      "Báo Cáo Công Nợ",
+      "Cẩn thận",
+      "Phần mềm kế toán Misa",
+      "xuất hóa đơn"
+    ],
+    "posted_date": "2026-09-11T09:43:53+07:00",
+    "url": "https://www.vietnamworks.com/ke-toan-cong-no-kenh-mt-co-lo-trinh-len-ke-toan-tong-hop-2105158-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:35:37.974108",
+    "company_id": 416367,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Thưởng tháng 13, Lễ, thưởng hoa hồng vận hành theo tháng"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Tham gia đầy đủ chế độ bảo hiểm BHXH, BHYT, BHTN."
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "Được 13 ngày phép năm nếu làm tròn năm."
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Được tham gia các khoá đào tạo, nâng cao kỹ năng, nghiệp vụ chuyên môn."
+      },
+      {
+        "benefitId": 12,
+        "benefitIconName": "fa-coffee",
+        "benefitName": "Canteen",
+        "benefitNameVI": "Căn-tin",
+        "benefitValue": "Hổ trợ cơm trưa 25.000đ/ theo ngày làm việc"
+      }
+    ],
+    "industries": [
+      "FMCG"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "15tr-18tr ₫/tháng",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2092291",
+    "title": "Product Manager (Sản Phẩm AMIS Operation) / Tuyển Gấp",
+    "company": "MISA Jointstock Company",
+    "company_normalized": "MISA Jointstock Company",
+    "salary": {
+      "type": "range",
+      "min": 0.0,
+      "max": 60000000.0,
+      "currency": "VND",
+      "text": "Tới 60tr ₫/tháng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Phát Triển Phần Mềm",
+      "Phân Tích Dữ Liệu",
+      "Nghiên Cứu Sản Phẩm",
+      "Product Management",
+      "Product Manager"
+    ],
+    "posted_date": "2026-09-11T09:08:42+07:00",
+    "url": "https://www.vietnamworks.com/product-manager-san-pham-amis-operation-tuyen-gap-2092291-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:35:37.974128",
+    "company_id": 31211,
+    "company_size": "1,000-4,999",
+    "job_level": "Manager",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Mức thu nhập cạnh tranh, tương xứng với năng lực; được xét tăng lương định kỳ 2 lần mỗi năm.\r\nThưởng cuối năm từ 2.75 đến 4 tháng lương."
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Được hưởng đầy đủ các chế độ ốm đau, thai sản, nghỉ mát và khám sức khỏe định kỳ."
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Có lộ trình thăng tiến rõ ràng theo hướng quản lý hoặc chuyên gia, phù hợp với năng lực của từng cá nhân.\r\nĐược tham gia các khóa đào tạo chuyên môn và kỹ năng mềm theo từng giai đoạn phát triển."
+      },
+      {
+        "benefitId": 5,
+        "benefitIconName": "fa-trophy",
+        "benefitName": "Awards",
+        "benefitNameVI": "Giải thưởng",
+        "benefitValue": "Cơ hội thăng tiến sau 6 tháng làm việc"
+      },
+      {
+        "benefitId": 10,
+        "benefitIconName": "fa-glass",
+        "benefitName": "Team Activities",
+        "benefitNameVI": "Hoạt động nhóm",
+        "benefitValue": "Thường xuyên tổ chức các hoạt động teambuilding và văn hóa - thể thao - nghệ thuật.\r\nCó nhiều câu lạc bộ Văn hóa, Thể thao sinh hoạt định kỳ, tạo không gian"
+      },
+      {
+        "benefitId": 11,
+        "benefitIconName": "fa-cab",
+        "benefitName": "Transportation",
+        "benefitNameVI": "Xe đưa đón",
+        "benefitValue": "Có cơ hội tham gia các câu lạc bộ chuyên môn để trau dồi kiến thức và mở rộng kết nối nội bộ."
+      },
+      {
+        "benefitId": 13,
+        "benefitIconName": "fa-gift",
+        "benefitName": "Vouchers",
+        "benefitNameVI": "Phiếu giảm giá",
+        "benefitValue": "Được hỗ trợ ăn trưa miễn phí tại công ty và nhận quà tặng nhân dịp sinh nhật."
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Không gian làm việc hiện đại, thoáng đãng, được trang bị nhiều tiện ích giải trí như quầy bar, sân golf mini và khu leo núi.\r\nMôi trường làm việc cởi mở, chuyên nghiệp, đề c"
+      }
+    ],
+    "industries": [
+      "IT Software/SaaS"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Tới 60tr ₫/tháng",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2098729",
+    "title": "Kế Toán Tổng Hợp",
+    "company": "Công ty TNHH Chinarailway 16th Bureau Group Việt Nam",
+    "company_normalized": "Công ty TNHH Chinarailway 16th Bureau Group Việt Nam",
+    "salary": {
+      "type": "range",
+      "min": 15000000.0,
+      "max": 40000000.0,
+      "currency": "VND",
+      "text": "15tr-40tr ₫/tháng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Hạch Toán Kê Khai Thuế",
+      "Thủ Tục Kế Toán",
+      "Hoạch Toán Chi Phí Công Trình",
+      "Phần mềm kế toán",
+      "Tài Chính Kế Toán"
+    ],
+    "posted_date": "2026-09-10T17:30:21+07:00",
+    "url": "https://www.vietnamworks.com/ke-toan-tong-hop-2098729-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:35:41.648659",
+    "company_id": 422899,
+    "company_size": "100-499",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Được tham gia bảo hiểm xã hội và hưởng các chế độ phúc lợi theo quy định của pháp luật lao động Việt Nam."
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "Được nghỉ các ngày lễ, Tết và nghỉ phép năm theo quy định."
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Có cơ hội phát triển nghề nghiệp và thăng tiến.\nLàm việc trong môi trường doanh nghiệp xây dựng có vốn đầu tư nước ngoài/vốn Trung Quốc, có cơ hội tham gia và tiếp cận công tác quản lý tài chính của các dự án quy mô lớn."
+      }
+    ],
+    "industries": [
+      "Construction Engineering/Infrastructure"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "15tr-40tr ₫/tháng",
+    "posted_text": "Đăng 19 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2089570",
+    "title": "Garment Technical Designer (TD&QA) - Nhân Viên Thiết Kế/kỹ Thuật May Mặc",
+    "company": "Công Ty TNHH Nobland Viet Nam",
+    "company_normalized": "Công Ty TNHH Nobland Viet Nam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ho Chi Minh"
+    ],
+    "skills": [
+      "May Mặc Thời Trang",
+      "Garment Technical Design",
+      "Fashion Design",
+      "CAD Software",
+      "Technical Quality Control"
+    ],
+    "posted_date": "2026-09-10T17:04:53+07:00",
+    "url": "https://www.vietnamworks.com/garment-technical-designer-td-qa-nhan-vien-thiet-ke-ky-thuat-may-mac-2089570-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:35:41.648675",
+    "company_id": 78345,
+    "company_size": "10,000-19,999",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "- Phụ cấp 500,000 VND, trợ cấp lao động nữ, con nhỏ, cơm trưa.\r\n- Xét tăng Lương 01 năm/01 lần dựa theo ngày làm việc.\r\n- 1 năm làm việc sẽ có 14 ngày nghỉ phép năm\r\n- Thưởng lương tháng 13"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "- Đóng bảo hiểm full theo lương chính thức. Bảo hiểm tai nạn 24/24."
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "- Tặng quà vào các dịp lễ, tết."
+      }
+    ],
+    "industries": [
+      "Textiles/Garments/Footwear"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng lại 19 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105501",
+    "title": "Kế Toán Tổng Hợp (Thu Nhập Lên Đến 30 Triệu/ Tháng- Đi Làm Ngay)",
+    "company": "Công Ty TNHH Thanh An",
+    "company_normalized": "Công Ty TNHH Thanh An",
+    "salary": {
+      "type": "range",
+      "min": 25000000.0,
+      "max": 30000000.0,
+      "currency": "VND",
+      "text": "25tr-30tr ₫/tháng"
+    },
+    "cities": [
+      "Ha Noi",
+      "Ha Nam"
+    ],
+    "skills": [
+      "Kế Toán Tổng Hợp",
+      "Phần mềm Kế toán",
+      "Hạch Toán",
+      "Tài Chính",
+      "Quản Lý Quỹ Tiền Mặt"
+    ],
+    "posted_date": "2026-09-10T16:32:08+07:00",
+    "url": "https://www.vietnamworks.com/ke-toan-tong-hop-thu-nhap-len-den-30-trieu-thang-di-lam-ngay-2105501-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:35:41.648709",
+    "company_id": 239583,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Lương Cơ bản +Phụ cấp + Thưởng KPI + Thưởng Doanh số: cạnh tranh. (Thu Nhập từ 25-30tr)"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Các chính sách khác (BHXH,…) theo quy định của Luật và Công ty."
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Có cơ hội phát triển nghề nghiệp và thăng tiến lên vị trí cao hơn."
+      }
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "25tr-30tr ₫/tháng",
+    "posted_text": "Đăng 20 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105576",
+    "title": "Automation Test Developer (Embedded, Python)",
+    "company": "LG Electronics Development Vietnam Company Limited",
+    "company_normalized": "LG Electronics Development Vietnam",
+    "salary": {
+      "type": "range",
+      "min": 1000.0,
+      "max": 1500.0,
+      "currency": "USD",
+      "text": "$ 1,000-1,500 /tháng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Python programming",
+      "Robot Framework",
+      "LINUX",
+      "Automated Software Testing",
+      "Embedded Systems"
+    ],
+    "posted_date": "2026-09-10T16:04:20+07:00",
+    "url": "https://www.vietnamworks.com/automation-test-developer-embedded-python-2105576-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:35:41.648723",
+    "company_id": 249615,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Total remuneration package of up to 16.5 months of salary."
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Premium healthcare and accident insurance."
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "12 days of annual leave and an additional 6 days of company holidays."
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Support fees for TOEIC and technical certifications such as ISTQB and Agile Scrum."
+      },
+      {
+        "benefitId": 7,
+        "benefitIconName": "fa-laptop",
+        "benefitName": "Laptop",
+        "benefitNameVI": "Máy tính xách tay",
+        "benefitValue": "LG Gram laptop."
+      },
+      {
+        "benefitId": 9,
+        "benefitIconName": "fa-plane",
+        "benefitName": "Travel Opportunities",
+        "benefitNameVI": "Cơ hội du lịch",
+        "benefitValue": "On-site and training opportunities abroad."
+      },
+      {
+        "benefitId": 10,
+        "benefitIconName": "fa-glass",
+        "benefitName": "Team Activities",
+        "benefitNameVI": "Hoạt động nhóm",
+        "benefitValue": "Company trips and sporty clubs, including zumba, football, pingpong and badminton.\r\nMonthly budget for team activities."
+      },
+      {
+        "benefitId": 13,
+        "benefitIconName": "fa-gift",
+        "benefitName": "Vouchers",
+        "benefitNameVI": "Phiếu giảm giá",
+        "benefitValue": "Five working days per week, Monday to Friday, with flexible working time.\n"
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Hybrid working: employees can split time between working in the office and working from home.\nSupport for lunch and other allowances, including Coding Expert, Technical Leader"
+      }
+    ],
+    "industries": [
+      "IT Software/SaaS"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "$ 1,000-1,500 /tháng",
+    "posted_text": "Đăng 20 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105574",
+    "title": "Software Engineer (Embedded, MCU, RTOS)",
+    "company": "LG Electronics Development Vietnam Company Limited",
+    "company_normalized": "LG Electronics Development Vietnam",
+    "salary": {
+      "type": "range",
+      "min": 650.0,
+      "max": 2200.0,
+      "currency": "USD",
+      "text": "$ 650-2,200 /tháng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "MCU Programming",
+      "Embedded",
+      "Embedded Software",
+      "C"
+    ],
+    "posted_date": "2026-09-10T16:02:56+07:00",
+    "url": "https://www.vietnamworks.com/software-engineer-embedded-mcu-rtos--2105574-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:35:42.879734",
+    "company_id": 249615,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Attractive and competitive salary package (negotiable upon the interview);\r\n13th month salary + incentive bonus (total remuneration package up to 16 month’s salary);\r\nAnnual salary review"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Social insurance contribution based on full gross base salary;\r\nPremium healthcare and Accident Insurance;\r\n5 working days/ week: Mon – Fri with flexible working time;\r\n12 days of annual leave, 8 days of company holidays and 10 days of public holidays;"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Training opportunities abroad and global working environment;"
+      }
+    ],
+    "industries": [
+      "IT Software/SaaS"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "$ 650-2,200 /tháng",
+    "posted_text": "Đăng 20 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105353",
+    "title": "Developer (Using AI)",
+    "company": "BIP Systems Vietnam Co., Ltd",
+    "company_normalized": "BIP Systems Vietnam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Python Django",
+      "Rest Apis",
+      "Api Integration",
+      "Sql",
+      "GIT"
+    ],
+    "posted_date": "2026-09-10T13:56:29+07:00",
+    "url": "https://www.vietnamworks.com/developer-using-ai-2105353-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:35:43.962008",
+    "company_id": 47350,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Competitive Remuneration Package"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Salary review: twice a year"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Developing with various AI tools."
+      },
+      {
+        "benefitId": 9,
+        "benefitIconName": "fa-plane",
+        "benefitName": "Travel Opportunities",
+        "benefitNameVI": "Cơ hội du lịch",
+        "benefitValue": "Chance to work on site in Japan depending on job requirements"
+      }
+    ],
+    "industries": [
+      "IT Software/SaaS"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 22 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105350",
+    "title": "Telecom Core Network Engineer (C/C++/Linux)",
+    "company": "BIP Systems Vietnam Co., Ltd",
+    "company_normalized": "BIP Systems Vietnam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "C/C++ Programming",
+      "Basic Design",
+      "Embedded System",
+      "LINUX"
+    ],
+    "posted_date": "2026-09-10T13:37:08+07:00",
+    "url": "https://www.vietnamworks.com/telecom-core-network-engineer-cclinux-2105350-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:35:43.962024",
+    "company_id": 47350,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Competitive Remuneration Package"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Salary review: twice a year"
+      },
+      {
+        "benefitId": 9,
+        "benefitIconName": "fa-plane",
+        "benefitName": "Travel Opportunities",
+        "benefitNameVI": "Cơ hội du lịch",
+        "benefitValue": "Chance to work on site in Japan depending on job requirements"
+      }
+    ],
+    "industries": [
+      "IT Software/SaaS"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 22 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105917",
+    "title": "Sales Engineer",
+    "company": "Yoshitake Vietnam Co., Ltd",
+    "company_normalized": "Yoshitake Vietnam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ho Chi Minh"
+    ],
+    "skills": [
+      "Sales Contract Negotiation",
+      "Spare Parts Management",
+      "Technical Sales Engineer",
+      "Selling",
+      "Fertilizer"
+    ],
+    "posted_date": "2026-09-11T11:55:53+07:00",
+    "url": "https://www.vietnamworks.com/sales-engineer-2105917-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:35:52.421213",
+    "company_id": 212469,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "13th salary\r\nYearly bonus\r\nAdditional commission based on performance"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "PVI Insurance and Social Insurance"
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "12 full days of paid leave\r\nWorking Monday to Friday, with holidays according to labor regulations"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Training courses at the overseas factory"
+      },
+      {
+        "benefitId": 8,
+        "benefitIconName": "fa-mobile",
+        "benefitName": "Mobile",
+        "benefitNameVI": "Điện thoại",
+        "benefitValue": "Mobile allowance"
+      },
+      {
+        "benefitId": 9,
+        "benefitIconName": "fa-plane",
+        "benefitName": "Travel Opportunities",
+        "benefitNameVI": "Cơ hội du lịch",
+        "benefitValue": "Travel opportunities and training courses at the overseas factory"
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Attractive salary from VND 15 million to VND 40 million or more, based on ability\r\nTravel allowance"
+      }
+    ],
+    "industries": [
+      "Retail/Wholesale Trading"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2105569",
+    "title": "Product Testing Engineer",
+    "company": "Công Ty TNHH Datalogic Việt Nam",
+    "company_normalized": "Công Ty TNHH Datalogic Việt Nam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ho Chi Minh"
+    ],
+    "skills": [
+      "SQL & Power BI",
+      "C#",
+      "Test Method Validation",
+      "Testing",
+      "Equipment Testing"
+    ],
+    "posted_date": "2026-09-11T11:48:06+07:00",
+    "url": "https://www.vietnamworks.com/product-testing-engineer-2105569-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:35:52.421228",
+    "company_id": 64051,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Performance Bonus\n"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Premium Health Care package"
+      },
+      {
+        "benefitId": 11,
+        "benefitIconName": "fa-cab",
+        "benefitName": "Transportation",
+        "benefitNameVI": "Xe đưa đón",
+        "benefitValue": "Shuttle bus for commuting"
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Accommodation allowance, transportation allowance, provide breakfast & lunch"
+      }
+    ],
+    "industries": [
+      "Electrical/Electronics"
+    ],
+    "num_recruits": 3,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 47 phút trước"
+  },
+  {
+    "job_id": "vietnamworks:1720489",
+    "title": "(Thanh Hóa) Kỹ Thuật Viên Quy Trình Sản Xuất (Tuyển Dụng Cả Sinh Viên Mới Ra Trường/ Ứng Viên Ít Kinh Nghiệm)",
+    "company": "Fruit of The Loom International Limited",
+    "company_normalized": "Fruit of The Loom International Limited",
+    "salary": {
+      "type": "range",
+      "min": 0.0,
+      "max": 800.0,
+      "currency": "USD",
+      "text": "Tới $ 800 /tháng"
+    },
+    "cities": [
+      "Thanh Hoa"
+    ],
+    "skills": [
+      "Cải Tiến Giảm Chi Phí",
+      "Thiết Lập Quy Trình Sản Xuất",
+      "Quản Lý Sản Xuất",
+      "Kỹ thuật",
+      "Tư Duy Logic Và Khả Năng Giải Quyết Vấn Đề Tốt"
+    ],
+    "posted_date": "2026-09-11T11:58:04+07:00",
+    "url": "https://www.vietnamworks.com/thanh-hoa-ky-thuat-vien-quy-trinh-san-xuat-tuyen-dung-ca-sinh-vien-moi-ra-truong-ung-vien-it-kinh-nghiem-1720489-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:01.017746",
+    "company_id": 192580,
+    "company_size": "20,000-49,999",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Lương tháng 13"
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "14 ngày nghỉ phép có lương/năm"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Cơ hội đào tạo nước ngoài"
+      }
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Tới $ 800 /tháng",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2105885",
+    "title": "Chuyên Viên Kế Toán Tổng Hợp",
+    "company": "Công Ty Cổ Phần Hệ Thống Công Nghệ ETC",
+    "company_normalized": "Công Ty Cổ Phần Hệ Thống Công Nghệ ETC",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ha Noi",
+      "Ho Chi Minh"
+    ],
+    "skills": [
+      "Kế Toán Tổng Hợp",
+      "Hạch Toán",
+      "IFRS",
+      "Kê Khai Thuế",
+      "Báo Cáo Tài Chính"
+    ],
+    "posted_date": "2026-09-11T11:44:12+07:00",
+    "url": "https://www.vietnamworks.com/chuyen-vien-ke-toan-tong-hop--2105885-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:01.017762",
+    "company_id": 124999,
+    "company_size": "100-499",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Thưởng định kỳ các ngày lễ 30/4, 2/9,...và thưởng Tết;"
+      },
+      {
+        "benefitId": 10,
+        "benefitIconName": "fa-glass",
+        "benefitName": "Team Activities",
+        "benefitNameVI": "Hoạt động nhóm",
+        "benefitValue": "Một năm được nghỉ mát một lần, team building 1-2 dịp một năm;"
+      },
+      {
+        "benefitId": 12,
+        "benefitIconName": "fa-coffee",
+        "benefitName": "Canteen",
+        "benefitNameVI": "Căn-tin",
+        "benefitValue": "Bếp ăn cho Nhân viên (công ty hỗ trợ chi phí)"
+      }
+    ],
+    "industries": [
+      "IT Software/SaaS"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2091439",
+    "title": "Nhân Viên Tiền Lương và Thuế Thu Nhập Cá Nhân (R_HRM 2608)",
+    "company": "Công Ty Ô Tô Toyota Việt Nam",
+    "company_normalized": "Công Ty Ô Tô Toyota Việt Nam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Phu Tho"
+    ],
+    "skills": [
+      "Ms Excel",
+      "Power Bi",
+      "Payroll",
+      "Kê Khai Thuế",
+      "Quyết Toán PIT"
+    ],
+    "posted_date": "2026-09-11T11:43:41+07:00",
+    "url": "https://www.vietnamworks.com/nhan-vien-tien-luong-va-thue-thu-nhap-ca-nhan-r-hrm-2608-2091439-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:01.017772",
+    "company_id": 513,
+    "job_level": "Fresher/Entry level",
+    "benefits": [
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Các chế độ bảo hiểm & phúc lợi khác: Bằng hoặc tốt hơn quy định của Pháp luật"
+      }
+    ],
+    "industries": [
+      "IT Software/SaaS"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2092277",
+    "title": "Kỹ Sư Triển Khai - Làm Việc Tại Hà Nội",
+    "company": "Công ty TNHH thiết bị viễn thông ANSV",
+    "company_normalized": "Công ty TNHH thiết bị viễn thông ANSV",
+    "salary": {
+      "type": "range",
+      "min": 185000000.0,
+      "max": 0.0,
+      "currency": "VND",
+      "text": "Từ 185tr ₫/năm"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Điện Tử Viễn Thông",
+      "Triển Khai Dự Án",
+      "Quản Trị Mạng",
+      "Công Nghệ Thông Tin",
+      "Systems Engineering"
+    ],
+    "posted_date": "2026-09-11T10:30:50+07:00",
+    "url": "https://www.vietnamworks.com/ky-su-trien-khai-lam-viec-tai-ha-noi-2092277-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:07.068636",
+    "company_id": 338301,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Lương cạnh tranh, xét duyệt tăng lương 1- 2 lần/năm, thưởng theo kết quả SXKD/lễ tết"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Liên tục được đào tạo chuyên môn, đào tạo tại nước ngoài"
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Được tham gia các dự án công nghệ mới 5G, IoT, Cloud, Big Data, AI/ML, ... quy mô lớn trong thị trường viễn thông và tại các doanh nghiệp, chính phủ\r\nMôi trường làm việc năng động, sáng tạo, nhiều thử thách, phát huy tối đa sở trường"
+      }
+    ],
+    "industries": [
+      "Telecommunication"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Từ 185tr ₫/năm",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2105855",
+    "title": "Operation Officer (Ha Noi Head Office - 629)",
+    "company": "AEONMALL Vietnam Co., Ltd.",
+    "company_normalized": "AEONMALL Vietnam Co., Ltd.",
+    "salary": {
+      "type": "range",
+      "min": 350.0,
+      "max": 550.0,
+      "currency": "USD",
+      "text": "$ 350-550 /tháng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Communication Skills",
+      "Operations Administration",
+      "Documentation Process",
+      "Building Management",
+      "Data Analysis And Process Improvement"
+    ],
+    "posted_date": "2026-09-11T10:38:14+07:00",
+    "url": "https://www.vietnamworks.com/operation-officer-ha-noi-head-office-629--2105855-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:12.399538",
+    "company_id": 111074,
+    "company_size": "100-499",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Clear policies and benefits for employees"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Opportunities to be trained and instructed by experienced leaders"
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Work with friendly & supportive colleagues and leaders"
+      }
+    ],
+    "industries": [
+      "Real Estate/Rental/Leasing"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "$ 350-550 /tháng",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2105746",
+    "title": "Sales Operations Manager",
+    "company": "Công Ty TNHH Công Nghệ Huawei Việt Nam",
+    "company_normalized": "Công Ty TNHH Công Nghệ Huawei Việt Nam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Pipeline Management",
+      "Data Analytics",
+      "B2B Sales",
+      "Sales Operation",
+      "Cloud Solution"
+    ],
+    "posted_date": "2026-09-11T09:38:17+07:00",
+    "url": "https://www.vietnamworks.com/sales-operations-manager-11-2105746-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:14.256512",
+    "company_id": 955,
+    "job_level": "Manager",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Attractive Salary + 13th month salary + Performance Bonus"
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "Premium Healthcare Insurance"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "We value talent development. Local talents have the chance to participate in advanced training in China or other Asia-Pacific countries."
+      },
+      {
+        "benefitId": 9,
+        "benefitIconName": "fa-plane",
+        "benefitName": "Travel Opportunities",
+        "benefitNameVI": "Cơ hội du lịch",
+        "benefitValue": "We value talent development. Local talents have the chance to participate in advanced training in China or other Asia-Pacific countries."
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Join a global technology leader and realize your career aspirations on the fast-growing Huawei Cloud platform.\r\nWork directly with the Country Manager and play a central role in building a new country team’s operations system from zero to one, with hi"
+      }
+    ],
+    "industries": [
+      "Telecommunication"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 2 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2091934",
+    "title": "Senior Product Development Specialist - PL NTB",
+    "company": "FE CREDIT",
+    "company_normalized": "FE CREDIT",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ho Chi Minh"
+    ],
+    "skills": [
+      "Data analysis",
+      "Financial Reporting",
+      "Strategic Planning",
+      "Problem Solving",
+      "Product Analyst"
+    ],
+    "posted_date": "2026-09-11T09:15:48+07:00",
+    "url": "https://www.vietnamworks.com/senior-product-development-specialist-pl-ntb-2091934-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:14.256527",
+    "company_id": 116137,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Tháng 13, KPIs bonus"
+      }
+    ],
+    "industries": [
+      "Finance"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2105672",
+    "title": "Business Planning Executive",
+    "company": "FUJIFILM Business Innovation Vietnam",
+    "company_normalized": "FUJIFILM Business Innovation Vietnam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ho Chi Minh"
+    ],
+    "skills": [
+      "Excel",
+      "English Communication",
+      "Data Analysis",
+      "Channel Management",
+      "Business Planning"
+    ],
+    "posted_date": "2026-09-10T17:31:40+07:00",
+    "url": "https://www.vietnamworks.com/business-planning-executive--2105672-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:16.023831",
+    "company_id": 7438,
+    "company_size": "100-499",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Bonus"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Promotion Opportunity"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Professional Training"
+      }
+    ],
+    "industries": [
+      "IT System & Devices"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 19 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105621",
+    "title": "Chuyên Gia Vận Hành Nền Tảng Tích Hợp Dữ Liệu - K.CNTT",
+    "company": "Ngân Hàng TMCP Đại Chúng Việt Nam",
+    "company_normalized": "Ngân Hàng TMCP Đại Chúng Việt Nam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Data Integration",
+      "Database Và Data Warehouse",
+      "AWS",
+      "CI/CD",
+      "Kafka"
+    ],
+    "posted_date": "2026-09-10T16:57:32+07:00",
+    "url": "https://www.vietnamworks.com/chuyen-gia-van-hanh-nen-tang-tich-hop-du-lieu-k-cntt-1789034212305252543-2105621-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:17.866086",
+    "company_id": 136607,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Thưởng"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Bảo hiểm"
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "Chế độ nghỉ phép"
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Đồng phục\nTăng lương\nChế độ tập thể dục"
+      }
+    ],
+    "industries": [
+      "Banking"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 19 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105620",
+    "title": "Nhân Viên Vận Hành Sàn Thương Mại Điện Tử",
+    "company": "CÔNG TY CỔ PHẦN TẬP ĐOÀN LORCA",
+    "company_normalized": "CÔNG TY CỔ PHẦN TẬP ĐOÀN LORCA",
+    "salary": {
+      "type": "range",
+      "min": 10000000.0,
+      "max": 15000000.0,
+      "currency": "VND",
+      "text": "10tr-15tr ₫/tháng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Marketing Strategy",
+      "Data analysis",
+      "E-commerce management",
+      "E-Commerce Operations",
+      "Budget Management"
+    ],
+    "posted_date": "2026-09-10T16:56:32+07:00",
+    "url": "https://www.vietnamworks.com/nhan-vien-van-hanh-san-thuong-mai-dien-tu-1789034169709141714-2105620-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:17.866109",
+    "company_id": 416779,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Thu nhập cạnh tranh từ 20 – 30 triệu/tháng + Thưởng KPI/Doanh số."
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Tham gia đầy đủ BHXH, BHYT, BHTN theo quy định."
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Được đào tạo về sản phẩm, kỹ năng quay dựng và sản xuất nội dung cho thương hiệu thiết bị nhà bếp cao cấp."
+      },
+      {
+        "benefitId": 10,
+        "benefitIconName": "fa-glass",
+        "benefitName": "Team Activities",
+        "benefitNameVI": "Hoạt động nhóm",
+        "benefitValue": "Thưởng Lễ, Tết, du lịch, team building và các hoạt động nội bộ."
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Được trao quyền xây dựng chiến lược và phát triển hoạt động kinh doanh trên các sàn TMĐT.\r\nMôi trường làm việc chuyên nghiệp, năng động, đề cao sự chủ động và hiệu quả.\r\nCơ hội phát triển lên các vị trí quản lý cao hơn theo năng lực."
+      }
+    ],
+    "industries": [
+      "Retail/Wholesale Trading"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "10tr-15tr ₫/tháng",
+    "posted_text": "Đăng 19 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105609",
+    "title": "Chuyên Gia Vận Hành Cơ Sở Dữ Liệu (DBA) - K.CNTTT",
+    "company": "Ngân Hàng TMCP Đại Chúng Việt Nam",
+    "company_normalized": "Ngân Hàng TMCP Đại Chúng Việt Nam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Microsoft SQL",
+      "AWS Cloud Computing",
+      "Database Development",
+      "PostgreSQL",
+      "Hybrid Cloud"
+    ],
+    "posted_date": "2026-09-10T16:46:37+07:00",
+    "url": "https://www.vietnamworks.com/chuyen-gia-van-hanh-co-so-du-lieu-dba-k-cnttt-1789033540325640684-2105609-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:17.866126",
+    "company_id": 136607,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Thưởng"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Bảo hiểm\nChăm sóc sức khỏe"
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "Chế độ nghỉ phép"
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Đồng phục\nTăng lương\nChế độ tập thể dục"
+      }
+    ],
+    "industries": [
+      "Banking"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 19 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105587",
+    "title": "Trưởng Phòng Quản Lý Kinh Doanh - Khối KHCN",
+    "company": "Ngân Hàng TNHH MTV Kỷ Nguyên Thịnh Vượng - GPBank",
+    "company_normalized": "Ngân Hàng TNHH MTV Kỷ Nguyên Thịnh Vượng - GPBank",
+    "salary": {
+      "type": "range",
+      "min": 2000.0,
+      "max": 0.0,
+      "currency": "USD",
+      "text": "Từ $ 2,000 /tháng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Quản Lý Kinh Doanh",
+      "Retail Banking",
+      "Quản Trị Hiệu Suất",
+      "Nghiệp Vụ Tài Chính",
+      "Phân Tích Dữ Liệu"
+    ],
+    "posted_date": "2026-09-10T16:21:58+07:00",
+    "url": "https://www.vietnamworks.com/truong-phong-quan-ly-kinh-doanh-khoi-khcn--2105587-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:17.866140",
+    "company_id": 1977,
+    "company_size": "1,000-4,999",
+    "job_level": "Manager",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Thu nhập hấp dẫn, lương thưởng cạnh tranh theo năng lực. Thưởng các Ngày lễ, Tết."
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Bảo hiểm theo quy định của pháp luật, ngoài ra có thêm Bảo hiểm sức khỏe GPBank Care."
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Được tham gia các khóa đào tạo tùy thuộc vào Khung đào tạo cho từng vị trí."
+      }
+    ],
+    "industries": [
+      "Banking"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Từ $ 2,000 /tháng",
+    "posted_text": "Đăng 20 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105894",
+    "title": "Giám Sát Hỗ Trợ Công Nghệ Thông Tin - Ngành Farm",
+    "company": "Công Ty Cổ Phần Greenfeed Việt Nam",
+    "company_normalized": "Công Ty Cổ Phần Greenfeed Việt Nam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Binh Dinh"
+    ],
+    "skills": [
+      "Giám Sát",
+      "Công nghệ thông tin",
+      "Nông Nghiệp",
+      "IT Phần Cứng",
+      "IT Phần Mềm"
+    ],
+    "posted_date": "2026-09-11T11:16:51+07:00",
+    "url": "https://www.vietnamworks.com/giam-sat-ho-tro-cong-nghe-thong-tin-nganh-farm-2105894-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:21.350421",
+    "company_id": 173108,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "13th payment"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "premium healthcare for all members of family"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "training oppotunities"
+      }
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 1 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105838",
+    "title": "Senior DevOps & Infrastructure Engineer",
+    "company": "Công ty TNHH Reclub Vietnam",
+    "company_normalized": "Công ty TNHH Reclub Vietnam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ho Chi Minh"
+    ],
+    "skills": [
+      "Devops",
+      "Infrastructure"
+    ],
+    "posted_date": "2026-09-11T10:25:33+07:00",
+    "url": "https://www.vietnamworks.com/senior-devops-and-infrastructure-engineer-2105838-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:21.350435",
+    "company_id": 402318,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Bao Viet"
+      },
+      {
+        "benefitId": 7,
+        "benefitIconName": "fa-laptop",
+        "benefitName": "Laptop",
+        "benefitNameVI": "Máy tính xách tay",
+        "benefitValue": "Macbook"
+      },
+      {
+        "benefitId": 10,
+        "benefitIconName": "fa-glass",
+        "benefitName": "Team Activities",
+        "benefitNameVI": "Hoạt động nhóm",
+        "benefitValue": "Sport activities, team buiding"
+      },
+      {
+        "benefitId": 11,
+        "benefitIconName": "fa-cab",
+        "benefitName": "Transportation",
+        "benefitNameVI": "Xe đưa đón",
+        "benefitValue": "Grab Business"
+      },
+      {
+        "benefitId": 12,
+        "benefitIconName": "fa-coffee",
+        "benefitName": "Canteen",
+        "benefitNameVI": "Căn-tin",
+        "benefitValue": "Free lunchl, snack, coffee"
+      }
+    ],
+    "industries": [
+      "IT Software/SaaS"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 2 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105707",
+    "title": "Data Engineer (Fabric, Python, Azure)",
+    "company": "MiTek Việt Nam",
+    "company_normalized": "MiTek Việt Nam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ho Chi Minh"
+    ],
+    "skills": [
+      "Python và SQL",
+      "CI/CD tools",
+      "Azure Data Factory",
+      "Azure Devops",
+      "Powershell"
+    ],
+    "posted_date": "2026-09-10T18:48:33+07:00",
+    "url": "https://www.vietnamworks.com/data-engineer-fabric-python-azure-2105707-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:21.350443",
+    "company_id": 98207,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 10,
+        "benefitIconName": "fa-glass",
+        "benefitName": "Team Activities",
+        "benefitNameVI": "Hoạt động nhóm",
+        "benefitValue": "Sports clubs: Gym, Yoga, Football, Badminton, Swimming"
+      }
+    ],
+    "industries": [
+      "IT Software/SaaS"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 17 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105500",
+    "title": "Applications and Systems Engineer - Hanoi",
+    "company": "Michael Page Vietnam",
+    "company_normalized": "Michael Page Vietnam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ha Noi",
+      "Bac Ninh"
+    ],
+    "skills": [
+      "Application Engineering",
+      "C/C++ Programming",
+      "Java",
+      "Python",
+      "Systems Engineering"
+    ],
+    "posted_date": "2026-09-10T14:39:09+07:00",
+    "url": "https://www.vietnamworks.com/applications-and-systems-engineer-hanoi-2105500-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:21.350451",
+    "company_id": 285370,
+    "company_size": "10,000-19,999",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Yearly bonus"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Premium healthcare insuarance"
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "Paid leave"
+      }
+    ],
+    "industries": [
+      "Labor Supply"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 21 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105423",
+    "title": "Manager (Digital Architect) / Digital Business Development Division",
+    "company": "Navigos Search's Client",
+    "company_normalized": "Navigos Search's Client",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Node.js",
+      "PHP",
+      "C#",
+      "API Gateway",
+      "Entrepreneurial Mindset"
+    ],
+    "posted_date": "2026-09-10T13:09:26+07:00",
+    "url": "https://www.vietnamworks.com/manager-digital-architect-digital-business-development-division-2105423-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:33.616472",
+    "company_id": 192082,
+    "company_size": "100-499",
+    "job_level": "Manager",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Attractive Package"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Healthcare Plan"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Training Opportunities"
+      }
+    ],
+    "industries": [
+      "Insurance"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 23 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105839",
+    "title": "Engineer Evaluation Quality Assurance (Reliability Test Engineer)",
+    "company": "Công Ty TNHH Khoa Học Kỹ Thuật Wacom Việt Nam",
+    "company_normalized": "Công Ty TNHH Khoa Học Kỹ Thuật Wacom Việt Nam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Bac Ninh"
+    ],
+    "skills": [
+      "Quality Assurance",
+      "Product Evaluations",
+      "Reliability Test Management",
+      "Quality Management",
+      "English"
+    ],
+    "posted_date": "2026-09-11T11:14:19+07:00",
+    "url": "https://www.vietnamworks.com/engineer-evaluation-quality-assurance-reliability-test-engineer--2105839-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:41.510692",
+    "company_id": 383860,
+    "company_size": "10-24",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "As company policy; 13th salary; Performance Bonus"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Travel to oversea; Premium Health Insurance; Annual Health Check"
+      }
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2105884",
+    "title": "Trưởng Phòng Cao Cấp Quản Lý Thiết Kế",
+    "company": "Novaland",
+    "company_normalized": "Novaland",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ho Chi Minh"
+    ],
+    "skills": [
+      "Quản Lý Thiết Kế Kết Cấu",
+      "Quản lý chất lượng",
+      "Auto CAD",
+      "Ms Project",
+      "Lãnh đạo"
+    ],
+    "posted_date": "2026-09-11T11:07:02+07:00",
+    "url": "https://www.vietnamworks.com/truong-phong-cao-cap-quan-ly-thiet-ke-2105884-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:41.510708",
+    "company_id": 85185,
+    "job_level": "Manager",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Chính sách lương - thưởng cao hơn mức bình quân của thị trường."
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Phúc lợi toàn diện với bảo hiểm sức khỏe Nova-care, ưu đãi đặc quyền trong hệ sinh thái tập đoàn,..."
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "Có"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Phúc lợi toàn diện với bảo hiểm sức khỏe Nova-care, ưu đãi đặc quyền trong hệ sinh thái tập đoàn,..."
+      },
+      {
+        "benefitId": 7,
+        "benefitIconName": "fa-laptop",
+        "benefitName": "Laptop",
+        "benefitNameVI": "Máy tính xách tay",
+        "benefitValue": "Có"
+      }
+    ],
+    "industries": [
+      "Real Estate/Rental/Leasing"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 1 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105764",
+    "title": "Chuyên Viên QA & Đánh Giá Nội Bộ (ISO 9001/14001/45001 - Internal Audit Specialist)",
+    "company": "Công Ty TNHH Kỹ Thuật Taikisha Việt Nam",
+    "company_normalized": "Công Ty TNHH Kỹ Thuật Taikisha Việt Nam",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "ISO Audit Control",
+      "English",
+      "Iso 9001",
+      "Xây Dựng",
+      "QA"
+    ],
+    "posted_date": "2026-09-11T10:36:38+07:00",
+    "url": "https://www.vietnamworks.com/chuyen-vien-qa-danh-gia-noi-bo-iso-9001-14001-45001-internal-audit-specialist--2105764-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:43.553634",
+    "company_id": 4996,
+    "company_size": "100-499",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Mức lương thương lượng hấp dẫn."
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Được tham gia BHXH; BHYT; BHTN theo quy định."
+      },
+      {
+        "benefitId": 5,
+        "benefitIconName": "fa-trophy",
+        "benefitName": "Awards",
+        "benefitNameVI": "Giải thưởng",
+        "benefitValue": "Cơ hội thăng tiến trong công việc."
+      }
+    ],
+    "industries": [
+      "Construction Engineering/Infrastructure"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2105780",
+    "title": "Production Engineer",
+    "company": "Công Ty TNHH Sagemcom Energy &amp; Telecom",
+    "company_normalized": "Công Ty TNHH Sagemcom Energy &amp; Telecom",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Hai Phong"
+    ],
+    "skills": [
+      "Process Improvement",
+      "NPI process",
+      "Project Management",
+      "Computer Skill",
+      "Equipment Testing"
+    ],
+    "posted_date": "2026-09-11T10:33:31+07:00",
+    "url": "https://www.vietnamworks.com/production-engineer-172-2105780-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:43.553649",
+    "company_id": 379839,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "13th-month salary and annual bonus"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "24/7 accident and health insurance"
+      },
+      {
+        "benefitId": 5,
+        "benefitIconName": "fa-trophy",
+        "benefitName": "Awards",
+        "benefitNameVI": "Giải thưởng",
+        "benefitValue": "13 days of annual leave"
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Working days: Monday to Friday"
+      }
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2105792",
+    "title": "Nhân Viên QC (Open for Fresher)",
+    "company": "Công Ty Cổ Phần Kết Cấu Thép Remark",
+    "company_normalized": "Công Ty Cổ Phần Kết Cấu Thép Remark",
+    "salary": {
+      "type": "range",
+      "min": 0.0,
+      "max": 20000000.0,
+      "currency": "VND",
+      "text": "Tới 20tr ₫/tháng"
+    },
+    "cities": [
+      "Dong Nai"
+    ],
+    "skills": [
+      "Kỹ Thuật Cơ Khí",
+      "Kiểm Soát Chất Lượng",
+      "Kiểm Tra Chất Lượng",
+      "Quality Standards",
+      "Quản Lý Sản Xuất"
+    ],
+    "posted_date": "2026-09-11T10:05:06+07:00",
+    "url": "https://www.vietnamworks.com/nhan-vien-qc-open-for-fresher-1789095683291015795-2105792-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:43.553667",
+    "company_id": 365604,
+    "job_level": "Fresher/Entry level",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Mức lương từ 10-14tr, tổng thu nhập > 20 triệu đồng/tháng (có OT và phụ cấp trách nhiệm)"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Chế độ đãi ngộ và phúc lợi hấp dẫn (phụ cấp, khám sức khỏe,  v.v.)"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Nhiều hoạt động đào tạo và phát triển cho nhân sự về chuyên môn và kỹ năng"
+      },
+      {
+        "benefitId": 9,
+        "benefitIconName": "fa-plane",
+        "benefitName": "Travel Opportunities",
+        "benefitNameVI": "Cơ hội du lịch",
+        "benefitValue": "Du lịch hàng năm trong và ngoài nước"
+      },
+      {
+        "benefitId": 10,
+        "benefitIconName": "fa-glass",
+        "benefitName": "Team Activities",
+        "benefitNameVI": "Hoạt động nhóm",
+        "benefitValue": "Hoạt động gắn kết (Teambuilding, YEP…)"
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Môi trường làm việc quốc tế và chuyên nghiệp"
+      }
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Tới 20tr ₫/tháng",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2105783",
+    "title": "Kỹ Sư Phòng Sản Xuất",
+    "company": "SEI Electronic Components (Vietnam), Ltd.",
+    "company_normalized": "SEI Electronic Components (Vietnam), Ltd.",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Process Quality Management",
+      "Theo Dõi Tiến Độ",
+      "Cải Tiến Dây Chuyền Sản Xuất",
+      "Kế Hoạch Sản Xuất",
+      "Phân Tích Lỗi"
+    ],
+    "posted_date": "2026-09-11T09:55:51+07:00",
+    "url": "https://www.vietnamworks.com/ky-su-phong-san-xuat--2105783-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:45.430972",
+    "company_id": 135344,
+    "company_size": "5,000-9,999",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Lương: Mức cạnh tranh; Thưởng thâm niên và thưởng các ngày lễ tết, cuối năm."
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "Ứng viên khi trở thành nhân viên công ty sẽ được hưởng đầy đủ các chế độ của người lao động theo quy định của Luật lao động Việt Nam."
+      },
+      {
+        "benefitId": 11,
+        "benefitIconName": "fa-cab",
+        "benefitName": "Transportation",
+        "benefitNameVI": "Xe đưa đón",
+        "benefitValue": "Xe đưa đón theo chính sách của công ty ở các khu vực lân cận."
+      }
+    ],
+    "industries": [
+      "Electrical/Electronics"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2091945",
+    "title": "Trưởng Phòng Quản Lý Chất Lượng",
+    "company": "Công Ty CP Tập Đoàn Vinatech Việt Nam",
+    "company_normalized": "Công Ty CP Tập Đoàn Vinatech Việt Nam",
+    "salary": {
+      "type": "range",
+      "min": 30000000.0,
+      "max": 40000000.0,
+      "currency": "VND",
+      "text": "30tr-40tr ₫/tháng"
+    },
+    "cities": [
+      "Ho Chi Minh",
+      "Long An"
+    ],
+    "skills": [
+      "Cơ Khí",
+      "ISO",
+      "Kiểm Soát Chất Lượng",
+      "Cải Tiến Quy Trình",
+      "Quản Lý Nhân Sự"
+    ],
+    "posted_date": "2026-09-11T09:15:33+07:00",
+    "url": "https://www.vietnamworks.com/truong-phong-quan-ly-chat-luong--2091945-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:45.430997",
+    "company_id": 349781,
+    "company_size": "100-499",
+    "job_level": "Manager",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "- Tổng thu nhập 30 - 40tr/tháng"
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "- Hỗ trợ cơm trưa\r\n- Thưởng các dịp lễ đặc biệt trong năm\r\n- Thưởng tháng 13\r\n- Thưởng hiệu quả kinh doanh (tháng 14, 15, 16 bằng tiền mặt và ESOP)\r\n- Review thu nhập định kỳ"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "- Chính sách BHXH, khám sức khỏe tổng quát"
+      }
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "30tr-40tr ₫/tháng",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2105463",
+    "title": "Chuyên Viên Phân Tích Dữ Liệu (BI) Data Analyst Specialist",
+    "company": "Công ty cổ phần Dược - Thiết bị y tế Đà Nẵng",
+    "company_normalized": "Công ty cổ phần Dược - Thiết bị y tế Đà Nẵng",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Data Analysis",
+      "Phân Tích Dữ Liệu",
+      "Báo Cáo Số Liệu",
+      "Data Warehouse",
+      "ETL"
+    ],
+    "posted_date": "2026-09-10T15:04:55+07:00",
+    "url": "https://www.vietnamworks.com/chuyen-vien-phan-tich-du-lieu-bi-data-analyst-specialist--2105463-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:36:58.792196",
+    "company_id": 362731,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Hưởng đầy đủ các chế độ theo quy định của Luật lao động và chính sách của Công ty: Thẻ bảo hiểm sức khỏe"
+      },
+      {
+        "benefitId": 7,
+        "benefitIconName": "fa-laptop",
+        "benefitName": "Laptop",
+        "benefitNameVI": "Máy tính xách tay",
+        "benefitValue": "Laptop cho cấp quản lý"
+      },
+      {
+        "benefitId": 9,
+        "benefitIconName": "fa-plane",
+        "benefitName": "Travel Opportunities",
+        "benefitNameVI": "Cơ hội du lịch",
+        "benefitValue": "Du lịch hàng năm"
+      },
+      {
+        "benefitId": 10,
+        "benefitIconName": "fa-glass",
+        "benefitName": "Team Activities",
+        "benefitNameVI": "Hoạt động nhóm",
+        "benefitValue": "Quà tặng sinh nhật"
+      }
+    ],
+    "industries": [
+      "Medical Services/Healthcare"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 21 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105414",
+    "title": "[ Hải Phòng] [Urgent] Nhân Viên IT/ IT Staff",
+    "company": "CÔNG TY CỔ PHẦN TRUNG TÂM GIA CÔNG POSCO VIỆT NAM - CHI NHÁNH HẢI PHÒNG",
+    "company_normalized": "CÔNG TY CỔ PHẦN TRUNG TÂM GIA CÔNG POSCO VIỆT NAM - CHI NHÁNH HẢI PHÒNG",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Hai Phong"
+    ],
+    "skills": [
+      "Windows OS Installation",
+      "Network Administration",
+      "Information Security",
+      "Operating System",
+      "Computer Network"
+    ],
+    "posted_date": "2026-09-10T14:24:29+07:00",
+    "url": "https://www.vietnamworks.com/hai-phong-urgent-nhan-vien-it-it-staff-1-2105414-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:37:06.053816",
+    "company_id": 385854,
+    "job_level": "Fresher/Entry level",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Lunar New Year bonus\nYear-end business profit bonus\nYear-end workplace safety bonus\nJuly and December incentive bonuses (1/2 month's salary)"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Social insurance, health insurance, unemployment insurance contributions\n24-hour insurance coverage for all employees (100% compensation for hospital fees in case of accidents on the way to and from work, travel, etc.)\nPVI health insurance"
+      },
+      {
+        "benefitId": 11,
+        "benefitIconName": "fa-cab",
+        "benefitName": "Transportation",
+        "benefitNameVI": "Xe đưa đón",
+        "benefitValue": "Two-way shuttle service in 3 cities: Hanoi; Hai Duong; Hai Phong"
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Salary negotiable based on experience\n5-day work week (40 hours) from Monday to Friday - Saturday and Sunday off\nOther social welfare benefits for employees such as birthday gifts, seniority bonuses, breakfast allowance, etc."
+      }
+    ],
+    "industries": [
+      "IT System & Devices"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 22 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2105777",
+    "title": "Nhân Viên Cao Cấp Dịch Vụ Phụ Tùng Ô Tô (Automotive Service Parts – Senior Staff)",
+    "company": "Hino Motors Vietnam, LTD.",
+    "company_normalized": "Hino Motors Vietnam, LTD.",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Automobile Tools",
+      "Kỹ Thuật Hệ Thống",
+      "Automotive Repair",
+      "Operation Management",
+      "Technical Audit"
+    ],
+    "posted_date": "2026-09-11T10:22:44+07:00",
+    "url": "https://www.vietnamworks.com/nhan-vien-cao-cap-dich-vu-phu-tung-o-to-automotive-service-parts-senior-staff-2105777-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:37:13.288607",
+    "company_id": 265258,
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Year end Bonus"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Accident insurance, Travelling insurance besides Social Insurance\r\nAnnual Health check-up"
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "Annual leave, public holiday, company holiday according to the labor law, additional sick leave"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Training Opportunities"
+      },
+      {
+        "benefitId": 9,
+        "benefitIconName": "fa-plane",
+        "benefitName": "Travel Opportunities",
+        "benefitNameVI": "Cơ hội du lịch",
+        "benefitValue": "Company Trip"
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Competitive salary\r\nGenuine work/ life balance: Working time: 8:00 – 17:30, From Monday to Friday\r\nCompany trip\r\nYear End Party"
+      }
+    ],
+    "industries": [
+      "Automotive"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Cập nhật hôm nay"
+  },
+  {
+    "job_id": "vietnamworks:2105730",
+    "title": "Accounting Supervisor",
+    "company": "Jazwares LLC - The Representative Officce of Jaz Toys HK Limited In Hanoi City",
+    "company_normalized": "Jazwares LLC - The Representative Officce of Jaz Toys HK Limited In Hanoi City",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Kế Toán Tổng Hợp",
+      "ERP System"
+    ],
+    "posted_date": "2026-09-11T08:25:35+07:00",
+    "url": "https://www.vietnamworks.com/accounting-supervisor--2105730-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-11T05:37:15.331500",
+    "company_id": 320758,
+    "company_size": "25-99",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "13th month salary, bonus"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Premium Healthcare & periodic health check-up"
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Employee laptop, Additional Annual Leave and Holidays, etc."
+      }
+    ],
+    "industries": [
+      "Accounting/Auditing"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Cập nhật hôm nay"
+  }
+]
