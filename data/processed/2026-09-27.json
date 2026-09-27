@@ -1,0 +1,101 @@
+[
+  {
+    "job_id": "vietnamworks:2112056",
+    "title": "Integration And Application Lead",
+    "company": "Vietnam Australia International School (VAS)",
+    "company_normalized": "Vietnam Australia International School (VAS)",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ho Chi Minh"
+    ],
+    "skills": [
+      "Microsoft Power Platform",
+      "Rest Apis",
+      "Ipaas Platforms",
+      "communication",
+      "Data mapping"
+    ],
+    "posted_date": "2026-09-26T14:25:38+07:00",
+    "url": "https://www.vietnamworks.com/integration-and-application-lead-1790407538244561102-2112056-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-27T06:09:13.931247",
+    "company_id": 109141,
+    "job_level": "Manager",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "13th monthly salary and KPIs bonus"
+      }
+    ],
+    "industries": [
+      "Education/Training"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 22 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2112072",
+    "title": "Cán Bộ Giám Sát Kỹ Thuật (Xây Dựng, Hạ Tầng, M&E)",
+    "company": "Công Ty Cổ Phần Vinhomes",
+    "company_normalized": "Công Ty Cổ Phần Vinhomes",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ha Noi",
+      "Hung Yen",
+      "Hai Phong"
+    ],
+    "skills": [
+      "Giám Sát Kỹ Thuật",
+      "Quản Lý Dự Án Công Trình Xây Dựng",
+      "Quản Lý Dự Án",
+      "Kiểm Soát Chất Lượng",
+      "Tư Vấn Giám Sát"
+    ],
+    "posted_date": "2026-09-26T17:55:45+07:00",
+    "url": "https://www.vietnamworks.com/can-bo-giam-sat-ky-thuat-xay-dung-ha-tang-m-e-1790420145737602718-2112072-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-09-27T06:09:38.145645",
+    "company_id": 221166,
+    "company_size": "5,000-9,999",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Mức lương hấp dẫn, phúc lợi toàn diện"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "Chế độ ưu đãi đặc biệt khi sử dụng các dịch vụ, sản phẩm của Tập đoàn Vingroup"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Môi trường chuyên nghiệp, sự nghiệp thăng tiến"
+      }
+    ],
+    "industries": [
+      "Construction Engineering/Infrastructure"
+    ],
+    "num_recruits": 10,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 19 giờ trước"
+  }
+]
