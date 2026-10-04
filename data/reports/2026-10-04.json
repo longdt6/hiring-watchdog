@@ -1,0 +1,65 @@
+{
+  "report_date": "2026-10-04",
+  "generated_at": "2026-10-04T06:37:18.627646",
+  "summary": {
+    "total_companies_analyzed": 1,
+    "new_companies": 1,
+    "red_alerts": 0,
+    "orange_alerts": 0,
+    "yellow_alerts": 0,
+    "normal": 1,
+    "companies_with_salary": 0
+  },
+  "alerts": [],
+  "all_scores": [
+    {
+      "company": "Công Ty TNHH Công Nghệ Huawei Việt Nam",
+      "final_score": 0.22,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.22,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.12,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 2,
+            "unique_roles": 6,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.95
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 2,
+        "job_titles": [
+          "Cybersecurity Engineer",
+          "Power Engineer"
+        ],
+        "days_active": 10,
+        "it_ratio": 0.95,
+        "role_categories": {
+          "general": 7,
+          "non_it": 5,
+          "security": 2,
+          "cloud": 2,
+          "network": 2,
+          "data_analyst": 1
+        }
+      },
+      "recommendation": "Công ty mới, 2 jobs IT"
+    }
+  ]
+}
