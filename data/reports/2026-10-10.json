@@ -1,0 +1,718 @@
+{
+  "report_date": "2026-10-10",
+  "generated_at": "2026-10-10T06:41:12.614049",
+  "summary": {
+    "total_companies_analyzed": 12,
+    "new_companies": 12,
+    "red_alerts": 0,
+    "orange_alerts": 2,
+    "yellow_alerts": 1,
+    "normal": 9,
+    "companies_with_salary": 0
+  },
+  "alerts": [
+    {
+      "company": "Tổng Công Ty Bưu Điện Việt Nam - VIETNAMPOST",
+      "final_score": 0.57,
+      "alert_level": "orange",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.57,
+          "is_anomaly": true,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.12,
+            "seniority_score": 0.2,
+            "salary_score": 0.15,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 4,
+            "unique_roles": 6,
+            "senior_ratio": 0.75,
+            "salary_premium_ratio": 0.5,
+            "it_ratio": 0.85
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 4,
+        "job_titles": [
+          "Trưởng Nhóm Nghiên Cứu AI",
+          "Trưởng/ Phó Phòng Công Nghệ Dữ Liệu",
+          "Kiến Trúc Sư Hệ Thống (SA)",
+          "QA Lead"
+        ],
+        "days_active": 3,
+        "it_ratio": 0.85,
+        "role_categories": {
+          "general": 4,
+          "non_it": 2,
+          "qa": 2,
+          "tech_lead": 1,
+          "data": 1,
+          "ba": 1
+        }
+      },
+      "recommendation": "Công ty mới (4 jobs, 6 roles); Nhiều Senior (75%); Lương cao hơn market"
+    },
+    {
+      "company": "Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT)",
+      "final_score": 0.52,
+      "alert_level": "orange",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.52,
+          "is_anomaly": true,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.15,
+            "diversity_score": 0.12,
+            "seniority_score": 0.0,
+            "salary_score": 0.15,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 9,
+            "unique_roles": 6,
+            "senior_ratio": 0.11,
+            "salary_premium_ratio": 1.0,
+            "it_ratio": 0.97
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 9,
+        "job_titles": [
+          "Kỹ Sư Lập Trình Java",
+          "Kỹ Sư Quản Trị Hệ Thống",
+          "Kỹ Sư Phân Tích Dữ Liệu (DA)",
+          "Automation Tester",
+          "Kỹ Sư Devops",
+          "Kỹ Sư Quản Lý Chất Lượng Sản Phẩm (QA)",
+          "Kỹ Sư Quản Trị Hạ Tầng",
+          "Kỹ Sư Lập Trình PL/ SQL",
+          "Chuyên Viên Phân Tích Nghiệp Vụ (BA)"
+        ],
+        "days_active": 3,
+        "it_ratio": 0.97,
+        "role_categories": {
+          "general": 10,
+          "qa": 7,
+          "non_it": 6,
+          "network": 5,
+          "devops": 2,
+          "ba": 1
+        }
+      },
+      "recommendation": "Công ty mới (9 jobs, 6 roles); Lương cao hơn market"
+    },
+    {
+      "company": "Công Ty TNHH Công Nghệ Huawei Việt Nam",
+      "final_score": 0.37,
+      "alert_level": "yellow",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.37,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.12,
+            "seniority_score": 0.0,
+            "salary_score": 0.15,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 6,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 1.0,
+            "it_ratio": 0.94
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "IP Network Engineer (Huawei Viet Nam)"
+        ],
+        "days_active": 11,
+        "it_ratio": 0.94,
+        "role_categories": {
+          "non_it": 6,
+          "general": 4,
+          "network": 3,
+          "cloud": 2,
+          "security": 1,
+          "data_analyst": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    }
+  ],
+  "all_scores": [
+    {
+      "company": "Tổng Công Ty Bưu Điện Việt Nam - VIETNAMPOST",
+      "final_score": 0.57,
+      "alert_level": "orange",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.57,
+          "is_anomaly": true,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.12,
+            "seniority_score": 0.2,
+            "salary_score": 0.15,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 4,
+            "unique_roles": 6,
+            "senior_ratio": 0.75,
+            "salary_premium_ratio": 0.5,
+            "it_ratio": 0.85
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 4,
+        "job_titles": [
+          "Trưởng Nhóm Nghiên Cứu AI",
+          "Trưởng/ Phó Phòng Công Nghệ Dữ Liệu",
+          "Kiến Trúc Sư Hệ Thống (SA)",
+          "QA Lead"
+        ],
+        "days_active": 3,
+        "it_ratio": 0.85,
+        "role_categories": {
+          "general": 4,
+          "non_it": 2,
+          "qa": 2,
+          "tech_lead": 1,
+          "data": 1,
+          "ba": 1
+        }
+      },
+      "recommendation": "Công ty mới (4 jobs, 6 roles); Nhiều Senior (75%); Lương cao hơn market"
+    },
+    {
+      "company": "Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT)",
+      "final_score": 0.52,
+      "alert_level": "orange",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.52,
+          "is_anomaly": true,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.15,
+            "diversity_score": 0.12,
+            "seniority_score": 0.0,
+            "salary_score": 0.15,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 9,
+            "unique_roles": 6,
+            "senior_ratio": 0.11,
+            "salary_premium_ratio": 1.0,
+            "it_ratio": 0.97
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 9,
+        "job_titles": [
+          "Kỹ Sư Lập Trình Java",
+          "Kỹ Sư Quản Trị Hệ Thống",
+          "Kỹ Sư Phân Tích Dữ Liệu (DA)",
+          "Automation Tester",
+          "Kỹ Sư Devops",
+          "Kỹ Sư Quản Lý Chất Lượng Sản Phẩm (QA)",
+          "Kỹ Sư Quản Trị Hạ Tầng",
+          "Kỹ Sư Lập Trình PL/ SQL",
+          "Chuyên Viên Phân Tích Nghiệp Vụ (BA)"
+        ],
+        "days_active": 3,
+        "it_ratio": 0.97,
+        "role_categories": {
+          "general": 10,
+          "qa": 7,
+          "non_it": 6,
+          "network": 5,
+          "devops": 2,
+          "ba": 1
+        }
+      },
+      "recommendation": "Công ty mới (9 jobs, 6 roles); Lương cao hơn market"
+    },
+    {
+      "company": "Công Ty TNHH Công Nghệ Huawei Việt Nam",
+      "final_score": 0.37,
+      "alert_level": "yellow",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.37,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.12,
+            "seniority_score": 0.0,
+            "salary_score": 0.15,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 6,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 1.0,
+            "it_ratio": 0.94
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "IP Network Engineer (Huawei Viet Nam)"
+        ],
+        "days_active": 11,
+        "it_ratio": 0.94,
+        "role_categories": {
+          "non_it": 6,
+          "general": 4,
+          "network": 3,
+          "cloud": 2,
+          "security": 1,
+          "data_analyst": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "CÔNG TY TNHH THIẾT KẾ & XÂY DỰNG TOÀN DIỆN VIỆT NAM",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Quản Lý MEP/ MEP Manager"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "CÔNG TY TNHH THƯƠNG MẠI HỒNG THIÊN PHÚC",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Trưởng Nhóm Kỹ Thuật"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "tech_lead": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "IIJ Global Solutions Viet Nam",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Senior System Engineer"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Chi Nhánh Tổng Công Ty Tư Vấn Xây Dựng Việt Nam - CTCP",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Kỹ Sư Thiết Kế MEP"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "designer": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công Ty CP Đầu Tư Xây Dựng Và Công Nghệ Việt Nhật",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.6
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Kỹ Sư Thiết Kế Điện (Lương 30M+ | Thưởng Năm Đến 5 Tháng Lương | Không Yêu Cầu Bằng Cấp)"
+        ],
+        "days_active": 3,
+        "it_ratio": 0.6,
+        "role_categories": {
+          "designer": 3
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công ty TNHH Một thành viên Ứng dụng Kỹ thuật và Sản xuất (TECAPRO)",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 2,
+            "unique_roles": 3,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 2,
+        "job_titles": [
+          "Lập Trình Viên Frontend (FE)",
+          "Chuyên Viên Phân Tích Nghiệp Vụ (Business Analyst - BA) - Lĩnh Vực Tài Chính Công"
+        ],
+        "days_active": 2,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "frontend": 1,
+          "ba": 1,
+          "backend": 1
+        }
+      },
+      "recommendation": "Công ty mới, 2 jobs IT"
+    },
+    {
+      "company": "NGÂN HÀNG INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED- CN TP HÀ NỘI",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "财务会计与资产负债专业管理 / Finance & Accounting and Asset-Liability Management Specialist (ALM)"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Omron Vietnam Co.,ltd.",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Account Sales Engineer"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "VGU - Vietnamese German University",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 2,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.75
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 2,
+        "job_titles": [
+          "Lab Engineer for Smart Mobility Engineering study program",
+          "Lab Engineer for Faculty of Engineering and Computational Engineering study program"
+        ],
+        "days_active": 2,
+        "it_ratio": 0.75,
+        "role_categories": {
+          "general": 3
+        }
+      },
+      "recommendation": "Công ty mới, 2 jobs IT"
+    }
+  ]
+}
