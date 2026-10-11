@@ -1,0 +1,122 @@
+[
+  {
+    "job_id": "2118071",
+    "title": "Trưởng Bộ Phận Đổi Mới Số",
+    "company": "Tập Đoàn Vàng Bạc Đá Quý DOJI",
+    "company_id": 24833,
+    "company_size": "1,000-4,999",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "salary_raw": "Thương lượng",
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "Quản Trị Dự Án",
+      "SAP CRM",
+      "Data Lake Và Bi",
+      "API Gateway",
+      "Lãnh đạo"
+    ],
+    "industries": [
+      "Retail/Wholesale Trading"
+    ],
+    "job_level": "Manager",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "<ul><li>Thưởng Tết (thưởng cuối năm) được tính trên hệ số theo kết quả công việc</li><li>Thưởng kinh doanh (tháng/quý tùy theo kết quả kinh doanh) ..</li><li>Thưởng thâm niên, thưởng sáng kiến, thưởng thành tích, thưởng danh hiệu</li></ul>"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "<p>Bảo hiểm sức khỏe nâng cao theo quy định</p>"
+      },
+      {
+        "benefitId": 11,
+        "benefitIconName": "fa-cab",
+        "benefitName": "Transportation",
+        "benefitNameVI": "Xe đưa đón",
+        "benefitValue": "<p>Phụ cấp xăng xe đi lại/Bảo dưỡng xe ô tô</p>"
+      },
+      {
+        "benefitId": 12,
+        "benefitIconName": "fa-coffee",
+        "benefitName": "Canteen",
+        "benefitNameVI": "Căn-tin",
+        "benefitValue": "<ul><li>Ăn trưa tại Canteen Tập đoàn</li></ul>"
+      }
+    ],
+    "num_recruits": 1,
+    "posted_text": "Đăng 18 giờ trước",
+    "posted_date": "2026-10-10T18:48:08+07:00",
+    "url": "https://www.vietnamworks.com/truong-bo-phan-doi-moi-so-1791632888033167632-2118071-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-10-11T06:46:49.695375"
+  },
+  {
+    "job_id": "2118068",
+    "title": "Nhân Viên Marketing",
+    "company": "Công Ty Cổ Phần Kỹ Thuật Temas",
+    "company_id": 179702,
+    "company_size": "25-99",
+    "salary": {
+      "type": "range",
+      "min": 11000000.0,
+      "max": 14000000.0,
+      "currency": "VND",
+      "text": "11tr-14tr ₫/tháng"
+    },
+    "salary_raw": "11tr-14tr ₫/tháng",
+    "cities": [
+      "Ha Noi"
+    ],
+    "skills": [
+      "SEO Web",
+      "Graphics Design",
+      "B2B Product Marketing",
+      "Content Marketing",
+      "Digital Marketing"
+    ],
+    "industries": [
+      "Automatic"
+    ],
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "Thu nhập, chế độ phúc lợi tốt"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "Môi trường chú trọng vào đào tạo, tạo điều kiện cho NV phát huy tối đa năng lực, thỏa sức sáng tạo"
+      },
+      {
+        "benefitId": 15,
+        "benefitIconName": "fa-check-square-o",
+        "benefitName": "Others",
+        "benefitNameVI": "Khác",
+        "benefitValue": "Môi trường trẻ, năng động, thân thiện, có văn hóa doanh nghiệp rõ ràng"
+      }
+    ],
+    "num_recruits": 1,
+    "posted_text": "Đăng 19 giờ trước",
+    "posted_date": "2026-10-10T17:53:12+07:00",
+    "url": "https://www.vietnamworks.com/nhan-vien-marketing-1791629592030575848-2118068-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-10-11T06:47:03.311713"
+  }
+]
