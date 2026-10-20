@@ -1,0 +1,558 @@
+{
+  "report_date": "2026-10-20",
+  "generated_at": "2026-10-20T05:40:15.417923",
+  "summary": {
+    "total_companies_analyzed": 11,
+    "new_companies": 11,
+    "red_alerts": 0,
+    "orange_alerts": 0,
+    "yellow_alerts": 1,
+    "normal": 10,
+    "companies_with_salary": 0
+  },
+  "alerts": [
+    {
+      "company": "Công Ty TNHH LG Innotek Việt Nam Hải Phòng",
+      "final_score": 0.32,
+      "alert_level": "yellow",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.32,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.12,
+            "seniority_score": 0.1,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 2,
+            "unique_roles": 4,
+            "senior_ratio": 0.33,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.86
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 2,
+        "job_titles": [
+          "MES Engineer (New Project)",
+          "Security Staff",
+          "Safety / HSE Engineer"
+        ],
+        "days_active": 4,
+        "it_ratio": 0.86,
+        "role_categories": {
+          "general": 3,
+          "engineering_manager": 1,
+          "security": 1,
+          "designer": 1
+        }
+      },
+      "recommendation": "Công ty mới, 2 jobs IT"
+    }
+  ],
+  "all_scores": [
+    {
+      "company": "Công Ty TNHH LG Innotek Việt Nam Hải Phòng",
+      "final_score": 0.32,
+      "alert_level": "yellow",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.32,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.12,
+            "seniority_score": 0.1,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 2,
+            "unique_roles": 4,
+            "senior_ratio": 0.33,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.86
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 2,
+        "job_titles": [
+          "MES Engineer (New Project)",
+          "Security Staff",
+          "Safety / HSE Engineer"
+        ],
+        "days_active": 4,
+        "it_ratio": 0.86,
+        "role_categories": {
+          "general": 3,
+          "engineering_manager": 1,
+          "security": 1,
+          "designer": 1
+        }
+      },
+      "recommendation": "Công ty mới, 2 jobs IT"
+    },
+    {
+      "company": "GALAXYJOY JSC",
+      "final_score": 0.233,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.23333333333333334,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.13333333333333333,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 2,
+            "unique_roles": 2,
+            "senior_ratio": 0.5,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.67
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 2,
+        "job_titles": [
+          "Quality Control Engineer (Manual & Automation Testing)",
+          "Middle/Senior - Backend Engineer (NodeJS, 4 headcounts)"
+        ],
+        "days_active": 1,
+        "it_ratio": 0.67,
+        "role_categories": {
+          "general": 1,
+          "backend": 1
+        }
+      },
+      "recommendation": "Công ty mới, 2 jobs IT"
+    },
+    {
+      "company": "FE CREDIT",
+      "final_score": 0.22,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.22,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.12,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 5,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.71
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Risk Modeling Development Specialist"
+        ],
+        "days_active": 12,
+        "it_ratio": 0.71,
+        "role_categories": {
+          "non_it": 8,
+          "general": 2,
+          "fullstack": 2,
+          "data_analyst": 2,
+          "cloud": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Trung Tâm Công Nghệ Cao Mobifone – Chi Nhánh Tổng Công Ty Viễn Thông Mobifone",
+      "final_score": 0.22,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.22,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.12,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 2,
+            "unique_roles": 4,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 2,
+        "job_titles": [
+          "Kỹ Sư Mlops (Mlops Engineer – AI & Cloud)",
+          "Kỹ Sư Lập Trình Fullstack (Web & Mobile)"
+        ],
+        "days_active": 2,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "fullstack": 2,
+          "cloud": 1,
+          "data": 1,
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 2 jobs IT"
+    },
+    {
+      "company": "Công Ty Điện Lạnh Hòa Phát",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 3,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Trưởng Bộ Phận QA - Nhà Máy Phú Mỹ"
+        ],
+        "days_active": 3,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "qa": 1,
+          "embedded": 1,
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "United Overseas Bank (Vietnam) Limited (UOB)",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 2,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.88
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Data Engineering & Governance Manager"
+        ],
+        "days_active": 4,
+        "it_ratio": 0.88,
+        "role_categories": {
+          "non_it": 6,
+          "data": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "CÔNG TY CỔ PHẦN KIM LOẠI CÔNG NGHIỆP STAVIAN",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Strategy Development Specialist"
+        ],
+        "days_active": 2,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 2
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công Ty TNHH Saint- Gobain Việt Nam",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "PQC Engineer (R&D) - KCN Long Hậu"
+        ],
+        "days_active": 2,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 2
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Enkei Vietnam Co.,Ltd",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Electrical & Automation Control Engineer"
+        ],
+        "days_active": 2,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 2
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "One Mount",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 3,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.8
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Product Owner (Business Analyst)"
+        ],
+        "days_active": 4,
+        "it_ratio": 0.8,
+        "role_categories": {
+          "non_it": 2,
+          "ba": 1,
+          "general": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Pixelz Company Limited",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Customer Support Executive (CSE)"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    }
+  ]
+}
