@@ -1,0 +1,1095 @@
+{
+  "report_date": "2026-10-22",
+  "generated_at": "2026-10-22T05:45:32.700796",
+  "summary": {
+    "total_companies_analyzed": 23,
+    "new_companies": 23,
+    "red_alerts": 0,
+    "orange_alerts": 1,
+    "yellow_alerts": 0,
+    "normal": 22,
+    "companies_with_salary": 0
+  },
+  "alerts": [
+    {
+      "company": "NGÂN HÀNG TMCP QUÂN ĐỘI – MBBANK",
+      "final_score": 0.65,
+      "alert_level": "orange",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.65,
+          "is_anomaly": true,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.15,
+            "diversity_score": 0.2,
+            "seniority_score": 0.2,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 8,
+            "unique_roles": 8,
+            "senior_ratio": 0.78,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.88
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 8,
+        "job_titles": [
+          "AI Software Engineer (Python/Go/C/C++ Backend & AI Agents) - Khối Công nghệ thông tin (2026TD450888)",
+          "(Middle, Senior) FullStack Developer - Khối Công nghệ thông tin (2025TD943)",
+          "(Middle, Senior) BackEnd Engineer (Java, Spring Boot) - Khối Công nghệ thông tin (2025TD923)",
+          "Senior AI Engineer (Computer Vision/NLP/LLM) - Khối Công nghệ thông tin (2026TD450878)",
+          "Senior AI Expert - Khối Công nghệ thông tin (2026TD450201)",
+          "Chuyên viên Cao cấp Công nghệ Mô hình - Senior Machine Learning Engineer - Khối Dữ liệu (2026TD456629)",
+          "Phó phòng Công nghệ Mô hình - Deputy Head of Machine Learning Engineering - Khối Dữ liệu (2026TD456609)",
+          "Chuyên Gia Kiểm Định Mô Hình Kinh Doanh - Senior Business Model Validation Analyst (BI) - Khối Dữ Liệu ( 2026TD453781)",
+          "MB Trainee - AI Engineer (Fresher, Intern) - Khối Công Nghệ Thông Tin (2025TD924)"
+        ],
+        "days_active": 9,
+        "it_ratio": 0.88,
+        "role_categories": {
+          "data": 9,
+          "backend": 4,
+          "general": 3,
+          "fullstack": 2,
+          "non_it": 2,
+          "devops": 1,
+          "qa": 1,
+          "security": 1
+        }
+      },
+      "recommendation": "Công ty mới (8 jobs, 8 roles); Nhiều Senior (78%)"
+    }
+  ],
+  "all_scores": [
+    {
+      "company": "NGÂN HÀNG TMCP QUÂN ĐỘI – MBBANK",
+      "final_score": 0.65,
+      "alert_level": "orange",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.65,
+          "is_anomaly": true,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.15,
+            "diversity_score": 0.2,
+            "seniority_score": 0.2,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 8,
+            "unique_roles": 8,
+            "senior_ratio": 0.78,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.88
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 8,
+        "job_titles": [
+          "AI Software Engineer (Python/Go/C/C++ Backend & AI Agents) - Khối Công nghệ thông tin (2026TD450888)",
+          "(Middle, Senior) FullStack Developer - Khối Công nghệ thông tin (2025TD943)",
+          "(Middle, Senior) BackEnd Engineer (Java, Spring Boot) - Khối Công nghệ thông tin (2025TD923)",
+          "Senior AI Engineer (Computer Vision/NLP/LLM) - Khối Công nghệ thông tin (2026TD450878)",
+          "Senior AI Expert - Khối Công nghệ thông tin (2026TD450201)",
+          "Chuyên viên Cao cấp Công nghệ Mô hình - Senior Machine Learning Engineer - Khối Dữ liệu (2026TD456629)",
+          "Phó phòng Công nghệ Mô hình - Deputy Head of Machine Learning Engineering - Khối Dữ liệu (2026TD456609)",
+          "Chuyên Gia Kiểm Định Mô Hình Kinh Doanh - Senior Business Model Validation Analyst (BI) - Khối Dữ Liệu ( 2026TD453781)",
+          "MB Trainee - AI Engineer (Fresher, Intern) - Khối Công Nghệ Thông Tin (2025TD924)"
+        ],
+        "days_active": 9,
+        "it_ratio": 0.88,
+        "role_categories": {
+          "data": 9,
+          "backend": 4,
+          "general": 3,
+          "fullstack": 2,
+          "non_it": 2,
+          "devops": 1,
+          "qa": 1,
+          "security": 1
+        }
+      },
+      "recommendation": "Công ty mới (8 jobs, 8 roles); Nhiều Senior (78%)"
+    },
+    {
+      "company": "Bosch Global Software Technologies Company Limited",
+      "final_score": 0.287,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.2866666666666666,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.12,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 6,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.85
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Senior Test Automation Engineer (Python, Playwright) - AI Global Product"
+        ],
+        "days_active": 10,
+        "it_ratio": 0.85,
+        "role_categories": {
+          "general": 3,
+          "devops": 3,
+          "embedded": 2,
+          "qa": 1,
+          "tech_lead": 1,
+          "product_manager": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "KOTRA HCM",
+      "final_score": 0.25,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.25,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.15,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 3,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 1.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "[NSTAGE] Playable Ads Developer in Hanoi"
+        ],
+        "days_active": 3,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 2,
+          "embedded": 1,
+          "designer": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công Ty TNHH Amphenol Highspeed IO Technology Việt Nam",
+      "final_score": 0.233,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.23333333333333334,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.13333333333333333,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 2,
+            "unique_roles": 2,
+            "senior_ratio": 0.5,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 2,
+        "job_titles": [
+          "IT MES Engineer - Chinese Or English",
+          "IT Manager (Good English)"
+        ],
+        "days_active": 2,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 2,
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 2 jobs IT"
+    },
+    {
+      "company": "Tập đoàn Công nghệ G-Group",
+      "final_score": 0.233,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.23333333333333334,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.13333333333333333,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 2,
+            "unique_roles": 3,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.8
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 2,
+        "job_titles": [
+          "Senior Web Application Offensive Security Researcher",
+          "Senior Mobile Security Researcher"
+        ],
+        "days_active": 2,
+        "it_ratio": 0.8,
+        "role_categories": {
+          "security": 2,
+          "mobile": 1,
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 2 jobs IT"
+    },
+    {
+      "company": "CELLPHONES - HỆ THỐNG BÁN LẺ ĐIỆN THOẠI DI ĐỘNG, LAPTOP VÀ CÁC SẢN PHẨM CÔNG NGHỆ TOÀN QUỐC",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Trưởng Phòng Visual Merchandising (VM) & Trade Marketing"
+        ],
+        "days_active": 2,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 2
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Cai Mep International Terminal Co., Ltd.",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Head Of HR, CMIT, Vietnam"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "CÔNG TY CỔ PHẦN ASPIRE",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Quản Lý Vận Hành Tòa Nhà (Property Manager)"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "CÔNG TY CỔ PHẦN TỰ ĐỘNG HÓA VÀ ROBOTICS AUBOT",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Kỹ Sư Phần Mềm Cấp Cao - Thu Nhập Upto 35 triệu ( Yêu cầu từ 4 năm kinh nghiệm)"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công ty TNHH Thương mại F.C Việt Nam",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Dev Lead Lương 30M - 50M"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công ty cổ phần Victoria Aviation Academy",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Chuyên Viên Cao Cấp Tài Chính Kế Toán | Finance And Accounting Senior Executive"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "gbc engineers Vietnam LLC",
+      "final_score": 0.167,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.16666666666666669,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.06666666666666667,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 1.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Group IT Manager"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "CÔNG TY CỔ PHẦN VINSMART FUTURE",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 2,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "PMO (AI&Data product)"
+        ],
+        "days_active": 4,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "general": 3,
+          "cloud": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "CÔNG TY TNHH TƯ VẤN VGS",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "[Fresher] Kỹ Sư Thiết Kế Kết Cấu - Công Ty Australia"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "designer": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công Ty Cổ Phần Kiến Trúc Tư Vấn Quản Lý Đông Dương",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 3,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.6
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Nhân Viên ISO"
+        ],
+        "days_active": 3,
+        "it_ratio": 0.6,
+        "role_categories": {
+          "non_it": 1,
+          "designer": 1,
+          "general": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công Ty TNHH Aldila Composite Products",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Giám Sát Bảo Trì"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Công ty Cổ phần Đầu tư và Xây dựng Tân Phước Thịnh",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Kỹ Sư Biện Pháp Thi Công & Shop Drawing"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "EMCT CO., LTD",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Kỹ sư cài đặt - Tích hợp thiết bị IoT và hệ thống"
+        ],
+        "days_active": 2,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "embedded": 2
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Ngân Hàng TMCP Công Thương Việt Nam (VietinBank)",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 2,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.67
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Product Analytics & Growth"
+        ],
+        "days_active": 2,
+        "it_ratio": 0.67,
+        "role_categories": {
+          "non_it": 1,
+          "general": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Orion Food Vina Co,. Ltd - Head Office",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 0.67
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Chuyên Viên Kế Hoạch Bán Hàng (Hà Nội hoặc Vĩnh Phúc)"
+        ],
+        "days_active": 2,
+        "it_ratio": 0.67,
+        "role_categories": {
+          "non_it": 2
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Trung Tâm Không Gian Mạng Viettel - Viettel Cyberspace Center",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Nhân viên Chiến Lược"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Trường Đại Học Khoa Học Và Công Nghệ Hà Nội",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Nhân Viên IT Quản Trị Hệ Thống"
+        ],
+        "days_active": 1,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "network": 1
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    },
+    {
+      "company": "Văn Phòng Đại Diện Max Biocare Tại Hà Nội",
+      "final_score": 0.1,
+      "alert_level": "none",
+      "detection_type": "cold_start",
+      "is_new_company": true,
+      "signals": {
+        "cold_start": {
+          "total_score": 0.1,
+          "is_anomaly": false,
+          "threshold": 0.4,
+          "detection_type": "cold_start",
+          "components": {
+            "volume_score": 0.0,
+            "diversity_score": 0.0,
+            "seniority_score": 0.0,
+            "salary_score": 0.0,
+            "it_score": 0.1
+          },
+          "details": {
+            "job_count": 1,
+            "unique_roles": 1,
+            "senior_ratio": 0.0,
+            "salary_premium_ratio": 0.0,
+            "it_ratio": 1.0
+          }
+        },
+        "zscore": null,
+        "cusum": null
+      },
+      "context": {
+        "job_count_today": 1,
+        "job_titles": [
+          "Nhân Viên Vận Hành Sàn TMĐT Quốc Tế – Fresher/ Junior | Thái Nguyên"
+        ],
+        "days_active": 2,
+        "it_ratio": 1.0,
+        "role_categories": {
+          "non_it": 2
+        }
+      },
+      "recommendation": "Công ty mới, 1 jobs IT"
+    }
+  ]
+}
