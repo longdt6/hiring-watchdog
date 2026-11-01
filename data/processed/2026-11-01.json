@@ -1,0 +1,51 @@
+[
+  {
+    "job_id": "vietnamworks:2126483",
+    "title": "Tech Leads / Engineering Managers",
+    "company": "CÔNG TY CỔ PHẦN VINSMART FUTURE",
+    "company_normalized": "CÔNG TY CỔ PHẦN VINSMART FUTURE",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Ho Chi Minh",
+      "Ha Noi"
+    ],
+    "skills": [
+      "Web Engineering",
+      "System Design",
+      "Software Architecture Design",
+      "Cloud Development",
+      "Technical Lead"
+    ],
+    "posted_date": "2026-10-31T15:19:34+07:00",
+    "url": "https://www.vietnamworks.com/tech-leads-engineering-managers-2126483-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-11-01T07:06:12.003712",
+    "company_id": 404058,
+    "job_level": "Manager",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "<p>-</p>"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "<p>-</p>"
+      }
+    ],
+    "industries": [
+      "IT Software/SaaS"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 22 giờ trước"
+  }
+]
