@@ -1,0 +1,136 @@
+[
+  {
+    "job_id": "vietnamworks:2128998",
+    "title": "Giám Sát Thi Công và Lắp Đặt Hệ Thống",
+    "company": "WHA Group",
+    "company_normalized": "WHA",
+    "salary": {
+      "type": "range",
+      "min": 20000000.0,
+      "max": 30000000.0,
+      "currency": "VND",
+      "text": "20tr-30tr ₫/tháng"
+    },
+    "cities": [
+      "Nghe An"
+    ],
+    "skills": [
+      "Mechanical System",
+      "Construction Supervision",
+      "P&Id And Drawing Review",
+      "Installation Testing",
+      "Coordinating"
+    ],
+    "posted_date": "2026-11-07T20:40:52+07:00",
+    "url": "https://www.vietnamworks.com/giam-sat-thi-cong-va-lap-djat-he-thong-2128998-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-11-08T06:54:47.542564",
+    "company_id": 281940,
+    "company_size": "100-499",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "<p>Thưởng tháng 13, thưởng cuối năm</p>"
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "<p>Bảo hiểm sức khỏe</p>"
+      },
+      {
+        "benefitId": 3,
+        "benefitIconName": "fa-file-image-o",
+        "benefitName": "Paid Leave",
+        "benefitNameVI": "Nghỉ phép có lương",
+        "benefitValue": "<p>Nghỉ phép năm</p>"
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "<p>Cơ hội đào tạo</p>"
+      },
+      {
+        "benefitId": 7,
+        "benefitIconName": "fa-laptop",
+        "benefitName": "Laptop",
+        "benefitNameVI": "Máy tính xách tay",
+        "benefitValue": "<p>Laptop</p>"
+      },
+      {
+        "benefitId": 8,
+        "benefitIconName": "fa-mobile",
+        "benefitName": "Mobile",
+        "benefitNameVI": "Điện thoại",
+        "benefitValue": "<p>Trợ cấp điện thoại</p>"
+      }
+    ],
+    "industries": [
+      "Construction Engineering/Infrastructure"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "20tr-30tr ₫/tháng",
+    "posted_text": "Đăng 17 giờ trước"
+  },
+  {
+    "job_id": "vietnamworks:2128973",
+    "title": "Quality Assurance Senior Staff",
+    "company": "Panasonic Appliances Vietnam Co.,ltd.",
+    "company_normalized": "Panasonic Appliances Vietnam Co.,ltd.",
+    "salary": {
+      "type": "hidden",
+      "text": "Thương lượng"
+    },
+    "cities": [
+      "Hung Yen"
+    ],
+    "skills": [
+      "Đảm Bảo Chất Lượng",
+      "Quality Assurance",
+      "QA"
+    ],
+    "posted_date": "2026-11-07T14:11:45+07:00",
+    "url": "https://www.vietnamworks.com/quality-assurance-senior-staff-1794035505445015568-2128973-jv",
+    "source": "vietnamworks",
+    "crawled_at": "2026-11-08T06:54:49.116754",
+    "company_id": 8162,
+    "company_size": "1,000-4,999",
+    "job_level": "Experienced (non-manager)",
+    "benefits": [
+      {
+        "benefitId": 1,
+        "benefitIconName": "fa-dollar",
+        "benefitName": "Bonus",
+        "benefitNameVI": "Thưởng",
+        "benefitValue": "- 100% salary in probation period;\r\n- Monthly allowances for TOEIC/IELTS/ JLPT/HSK certificate & bachelor's/master's degree in Japan;\r\n- Annual salary increasement and promotion review;\r\n- Performance bonus and business results bonus four times a year."
+      },
+      {
+        "benefitId": 2,
+        "benefitIconName": "fa-user-md",
+        "benefitName": "Healthcare Plan",
+        "benefitNameVI": "Chăm sóc sức khoẻ",
+        "benefitValue": "- Health insurance in accordance with Vietnamese law;\r\n- 24-hour health insurance by Tokio Marine;\r\n- Periodic Health Check-up;\r\n- Menstrual leave for female employees;\r\n- Environmental allowance for employees working in harsh conditions."
+      },
+      {
+        "benefitId": 4,
+        "benefitIconName": "fa-graduation-cap",
+        "benefitName": "Training",
+        "benefitNameVI": "Đào tạo",
+        "benefitValue": "- Internal professional & technical training programs;\r\n- Opportunities for soft skills development courses through Panasonic Group;\r\n- International business travel opportunities across Japan & Southeast Asia."
+      }
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "num_recruits": 1,
+    "salary_raw": "Thương lượng",
+    "posted_text": "Đăng 23 giờ trước"
+  }
+]
