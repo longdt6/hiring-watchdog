@@ -1,0 +1,780 @@
+[
+  {
+    "job_id": "3743",
+    "job_slug": "ky-su-an-toan-thong-tin-viettel-group-3743",
+    "title": "Kỹ sư An toàn Thông tin",
+    "company": "Viettel Group",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "Fresher Accepted",
+      "Internship Accepted",
+      "JavaScript",
+      "Python"
+    ],
+    "hot_label": "SUPER HOT",
+    "benefits": [],
+    "posted_text": "Posted\n30 minutes ago",
+    "posted_date": "2026-11-15T07:00:08.518535",
+    "url": "https://itviec.com/it-jobs/ky-su-an-toan-thong-tin-viettel-group-3743",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.542950"
+  },
+  {
+    "job_id": "1611",
+    "job_slug": "it-project-manager-sureflow-1611",
+    "title": "IT Project Manager",
+    "company": "SureFlow",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "Project Management",
+      "Agile",
+      "Django",
+      "Team Management",
+      "Software Architecture",
+      "English"
+    ],
+    "hot_label": "SUPER HOT",
+    "benefits": [],
+    "posted_text": "Posted\n17 hours ago",
+    "posted_date": "2026-11-14T14:30:08.543001",
+    "url": "https://itviec.com/it-jobs/it-project-manager-sureflow-1611",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.543752"
+  },
+  {
+    "job_id": "0256",
+    "job_slug": "devsecops-engineer-khoi-cong-nghe-thong-tin-mb-bank-0256",
+    "title": "DevSecOps Engineer - Khối Công nghệ Thông tin",
+    "company": "MB Bank",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "DevSecOps",
+      "CI/CD",
+      "Docker",
+      "DevOps",
+      "Oracle",
+      "SQL"
+    ],
+    "hot_label": "HOT",
+    "benefits": [],
+    "posted_text": "Posted\n22 hours ago",
+    "posted_date": "2026-11-14T09:30:08.543782",
+    "url": "https://itviec.com/it-jobs/devsecops-engineer-khoi-cong-nghe-thong-tin-mb-bank-0256",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.544443"
+  },
+  {
+    "job_id": "0434",
+    "job_slug": "chuyen-gia-xay-dung-mo-hinh-phat-hien-gian-lan-mb-bank-0434",
+    "title": "Chuyên Gia xây dựng mô hình phát hiện gian lận",
+    "company": "MB Bank",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "Risk Management",
+      "Python",
+      "R",
+      "Data Science",
+      "Data Analysis",
+      "SQL"
+    ],
+    "hot_label": "HOT",
+    "benefits": [],
+    "posted_text": "Posted\n22 hours ago",
+    "posted_date": "2026-11-14T09:30:08.544470",
+    "url": "https://itviec.com/it-jobs/chuyen-gia-xay-dung-mo-hinh-phat-hien-gian-lan-mb-bank-0434",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.545131"
+  },
+  {
+    "job_id": "2437",
+    "job_slug": "system-engineer-embedded-automotive-hella-vietnam-2437",
+    "title": "System Engineer (Embedded Automotive)",
+    "company": "Hella Vietnam",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ho Chi Minh",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "System Architecture",
+      "System Admin",
+      "Design Systems",
+      "Embedded C"
+    ],
+    "hot_label": "SUPER HOT",
+    "benefits": [],
+    "posted_text": "Posted\n22 hours ago",
+    "posted_date": "2026-11-14T09:30:08.545163",
+    "url": "https://itviec.com/it-jobs/system-engineer-embedded-automotive-hella-vietnam-2437",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.545828"
+  },
+  {
+    "job_id": "2649",
+    "job_slug": "project-leader-brse-japanese-n2-nec-vietnam-2649",
+    "title": "Project Leader/ BrSE (Japanese N2+)",
+    "company": "NEC Vietnam",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ho Chi Minh",
+    "location": "Hybrid",
+    "category": "",
+    "skills": [
+      "Bridge Engineer",
+      "Japanese IT Communication",
+      "Java",
+      "C#",
+      "Japanese",
+      "Project Management"
+    ],
+    "hot_label": "SUPER HOT",
+    "benefits": [],
+    "posted_text": "Posted\n22 hours ago",
+    "posted_date": "2026-11-14T09:30:08.545856",
+    "url": "https://itviec.com/it-jobs/project-leader-brse-japanese-n2-nec-vietnam-2649",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.546566"
+  },
+  {
+    "job_id": "3343",
+    "job_slug": "data-scientist-agi-project-trusting-social-3343",
+    "title": "Data Scientist - AGI Project",
+    "company": "Trusting Social",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ho Chi Minh",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "LLM",
+      "Agentic AI",
+      "NLP",
+      "SQL",
+      "Python"
+    ],
+    "hot_label": "SUPER HOT",
+    "benefits": [],
+    "posted_text": "Posted\n23 hours ago",
+    "posted_date": "2026-11-14T08:30:08.546596",
+    "url": "https://itviec.com/it-jobs/data-scientist-agi-project-trusting-social-3343",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.547280"
+  },
+  {
+    "job_id": "2850",
+    "job_slug": "cloud-solution-architect-aws-azure-senior-middle-megazone-2850",
+    "title": "Cloud Solution Architect (AWS/Azure) (Senior, Middle)",
+    "company": "MEGAZONE",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "Solution Architecture",
+      "System Architecture",
+      "Cloud-native Architecture",
+      "Presale",
+      "Cloud",
+      "AWS"
+    ],
+    "hot_label": "HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:08.547317",
+    "url": "https://itviec.com/it-jobs/cloud-solution-architect-aws-azure-senior-middle-megazone-2850",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.547939"
+  },
+  {
+    "job_id": "0313",
+    "job_slug": "senior-data-scientist-ssi-securities-corporation-0313",
+    "title": "Senior Data Scientist",
+    "company": "SSI Securities Corporation",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "Data Science",
+      "Predictive models",
+      "A/B testing",
+      "Machine Learning",
+      "MLOps",
+      "Python"
+    ],
+    "hot_label": "SUPER HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:08.547967",
+    "url": "https://itviec.com/it-jobs/senior-data-scientist-ssi-securities-corporation-0313",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.548662"
+  },
+  {
+    "job_id": "2635",
+    "job_slug": "solutions-architect-fpt-is-2635",
+    "title": "Solutions Architect",
+    "company": "FPT IS",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ho Chi Minh",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "Software Architecture",
+      "ASP.NET",
+      "Project Management"
+    ],
+    "hot_label": "HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:08.548688",
+    "url": "https://itviec.com/it-jobs/solutions-architect-fpt-is-2635",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.549294"
+  },
+  {
+    "job_id": "0220",
+    "job_slug": "ky-su-van-hanh-devops-engineer-ngan-hang-tmcp-thinh-vuong-va-phat-trien-pgbank-0220",
+    "title": "Kỹ Sư Vận Hành (Devops Engineer)",
+    "company": "Ngân hàng TMCP Thịnh vượng và Phát triển (PGBank)",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "DevOps",
+      "CI/CD",
+      "DevSecOps",
+      "Middleware",
+      "Kubernetes",
+      "GitLab"
+    ],
+    "hot_label": "HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:08.549322",
+    "url": "https://itviec.com/it-jobs/ky-su-van-hanh-devops-engineer-ngan-hang-tmcp-thinh-vuong-va-phat-trien-pgbank-0220",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.549953"
+  },
+  {
+    "job_id": "0720",
+    "job_slug": "cv-cvcc-xay-dung-mo-hinh-phat-hien-gian-lan-mb-bank-0720",
+    "title": "CV, CVCC Xây Dựng Mô Hình Phát Hiện Gian Lận",
+    "company": "MB Bank",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "Risk Management",
+      "Data modeling",
+      "Data Analysis",
+      "Governance, Risk & Compliance",
+      "Data Science"
+    ],
+    "hot_label": "HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:08.549978",
+    "url": "https://itviec.com/it-jobs/cv-cvcc-xay-dung-mo-hinh-phat-hien-gian-lan-mb-bank-0720",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.550612"
+  },
+  {
+    "job_id": "2212",
+    "job_slug": "chuyen-vien-quan-ly-trien-khai-san-pham-edtech-vtc-online-2212",
+    "title": "Chuyên viên quản lý triển khai sản phẩm EdTech",
+    "company": "VTC Online",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "Project Management",
+      "Jira",
+      "Scrum"
+    ],
+    "hot_label": "HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:08.550640",
+    "url": "https://itviec.com/it-jobs/chuyen-vien-quan-ly-trien-khai-san-pham-edtech-vtc-online-2212",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.551233"
+  },
+  {
+    "job_id": "4706",
+    "job_slug": "ai-expert-computer-vision-nlp-llm-mb-bank-4706",
+    "title": "AI Expert (Computer Vision/NLP/LLM)",
+    "company": "MB Bank",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "AI",
+      "LLM",
+      "Deep Learning",
+      "Machine Learning",
+      "Computer Vision",
+      "NLP"
+    ],
+    "hot_label": "SUPER HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:08.551263",
+    "url": "https://itviec.com/it-jobs/ai-expert-computer-vision-nlp-llm-mb-bank-4706",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.551969"
+  },
+  {
+    "job_id": "4932",
+    "job_slug": "senior-ai-expert-machine-learning-deep-learning-llm-mb-bank-4932",
+    "title": "Senior AI Expert (Machine Learning, Deep Learning, LLM)",
+    "company": "MB Bank",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "AI",
+      "LLM",
+      "Deep Learning",
+      "Machine Learning",
+      "Computer Vision",
+      "NLP"
+    ],
+    "hot_label": "SUPER HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:08.551998",
+    "url": "https://itviec.com/it-jobs/senior-ai-expert-machine-learning-deep-learning-llm-mb-bank-4932",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.552720"
+  },
+  {
+    "job_id": "5035",
+    "job_slug": "senior-ai-engineer-computer-vision-nlp-llm-mb-bank-5035",
+    "title": "Senior AI Engineer (Computer Vision/NLP/LLM)",
+    "company": "MB Bank",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "AI",
+      "LLM",
+      "Machine Learning",
+      "Computer Vision",
+      "NLP",
+      "Python"
+    ],
+    "hot_label": "SUPER HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:08.552757",
+    "url": "https://itviec.com/it-jobs/senior-ai-engineer-computer-vision-nlp-llm-mb-bank-5035",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.553469"
+  },
+  {
+    "job_id": "0826",
+    "job_slug": "qa-senior-specialist-automation-test-selenium-testng-cong-ty-co-phan-chung-khoan-vpbank-0826",
+    "title": "QA Senior Specialist (Automation Test/Selenium/TestNG)",
+    "company": "Công ty Cổ phần Chứng khoán VPBank",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "QA QC",
+      "Automation Test",
+      "CI/CD",
+      "Agile",
+      "TestNG",
+      "Selenium"
+    ],
+    "hot_label": "HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:08.553496",
+    "url": "https://itviec.com/it-jobs/qa-senior-specialist-automation-test-selenium-testng-cong-ty-co-phan-chung-khoan-vpbank-0826",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.554140"
+  },
+  {
+    "job_id": "1421",
+    "job_slug": "innovation-product-manager-vietpay-corporation-1421",
+    "title": "Innovation Product Manager",
+    "company": "Vietpay Corporation",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ho Chi Minh",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "Product Management",
+      "Figma",
+      "UI-UX",
+      "Product Design"
+    ],
+    "hot_label": "HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:08.554167",
+    "url": "https://itviec.com/it-jobs/innovation-product-manager-vietpay-corporation-1421",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.554771"
+  },
+  {
+    "job_id": "4920",
+    "job_slug": "chuyen-gia-an-ninh-thong-tin-ung-dung-upto-2000-techcom-securities-4920",
+    "title": "Chuyên Gia, An Ninh Thông Tin Ứng Dụng - Upto 2000$",
+    "company": "Techcom Securities",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "System Architecture",
+      "Networking",
+      "Security"
+    ],
+    "hot_label": "SUPER HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:08.554799",
+    "url": "https://itviec.com/it-jobs/chuyen-gia-an-ninh-thong-tin-ung-dung-upto-2000-techcom-securities-4920",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.555462"
+  },
+  {
+    "job_id": "3627",
+    "job_slug": "applied-ai-engineer-ai-agent-llm-elcom-3627",
+    "title": "Applied AI Engineer (AI Agent, LLM)",
+    "company": "Elcom",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "LLM",
+      "Python"
+    ],
+    "hot_label": "HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:08.555489",
+    "url": "https://itviec.com/it-jobs/applied-ai-engineer-ai-agent-llm-elcom-3627",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:08.556056"
+  },
+  {
+    "job_id": "2957",
+    "job_slug": "senior-programmer-qa-specialist-devops-c-net-cong-ty-tnhh-socotec-viet-nam-2957",
+    "title": "Senior Programmer & QA Specialist (DevOps, C#, .Net)",
+    "company": "CÔNG TY TNHH SOCOTEC VIỆT NAM",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ho Chi Minh",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "DevOps",
+      "JavaScript",
+      "JQuery",
+      ".NET",
+      "C#",
+      "Jira"
+    ],
+    "hot_label": "HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:09.498744",
+    "url": "https://itviec.com/it-jobs/senior-programmer-qa-specialist-devops-c-net-cong-ty-tnhh-socotec-viet-nam-2957",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:09.499450"
+  },
+  {
+    "job_id": "1053",
+    "job_slug": "project-management-hospitality-domain-experience-vinsmart-future-1053",
+    "title": "Project Management (Hospitality Domain Experience)",
+    "company": "VinSmart Future",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "Project Management",
+      "English"
+    ],
+    "hot_label": "SUPER HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:09.499485",
+    "url": "https://itviec.com/it-jobs/project-management-hospitality-domain-experience-vinsmart-future-1053",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:09.500156"
+  },
+  {
+    "job_id": "1558",
+    "job_slug": "embedded-software-engineer-hella-vietnam-1558",
+    "title": "Embedded Software Engineer",
+    "company": "Hella Vietnam",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ho Chi Minh",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "Embedded C",
+      "English",
+      "AUTOSAR",
+      "Embedded"
+    ],
+    "hot_label": "SUPER HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:09.500186",
+    "url": "https://itviec.com/it-jobs/embedded-software-engineer-hella-vietnam-1558",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:09.500869"
+  },
+  {
+    "job_id": "3530",
+    "job_slug": "managed-service-leader-project-manager-cloud-ntq-solution-3530",
+    "title": "Managed Service Leader (Project Manager, Cloud)",
+    "company": "NTQ Solution",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "Project Management",
+      "Presale",
+      "Cloud",
+      "Leadership",
+      "ServiceNow",
+      "ITIL Foundation"
+    ],
+    "hot_label": "HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:09.500899",
+    "url": "https://itviec.com/it-jobs/managed-service-leader-project-manager-cloud-ntq-solution-3530",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:09.501543"
+  },
+  {
+    "job_id": "2615",
+    "job_slug": "security-compliance-officer-cong-ty-co-phan-chung-khoan-kafi-2615",
+    "title": "Security & Compliance Officer",
+    "company": "CÔNG TY CỔ PHẦN CHỨNG KHOÁN KAFI",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ho Chi Minh",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "Security Hardening",
+      "Governance, Risk & Compliance"
+    ],
+    "hot_label": "HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:09.501571",
+    "url": "https://itviec.com/it-jobs/security-compliance-officer-cong-ty-co-phan-chung-khoan-kafi-2615",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:09.502163"
+  },
+  {
+    "job_id": "5308",
+    "job_slug": "nhan-vien-kiem-thu-phan-mem-tester-thai-son-soft-5308",
+    "title": "Nhân viên Kiểm thử phần mềm (Tester)",
+    "company": "Thai Son Soft",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "Tester",
+      "Automation Test",
+      "QA QC"
+    ],
+    "hot_label": "HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:09.502192",
+    "url": "https://itviec.com/it-jobs/nhan-vien-kiem-thu-phan-mem-tester-thai-son-soft-5308",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:09.502783"
+  },
+  {
+    "job_id": "0820",
+    "job_slug": "fullstack-engineer-ai-product-builder-bookingcare-0820",
+    "title": "Fullstack Engineer (AI Product Builder)",
+    "company": "BookingCare",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ha Noi",
+    "location": "At office",
+    "category": "",
+    "skills": [
+      "Fullstack",
+      "NextJS",
+      "MySQL",
+      "LLM",
+      "AI",
+      "TypeScript"
+    ],
+    "hot_label": "HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:09.502808",
+    "url": "https://itviec.com/it-jobs/fullstack-engineer-ai-product-builder-bookingcare-0820",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:09.503447"
+  },
+  {
+    "job_id": "4728",
+    "job_slug": "fullstack-dev-ai-products-python-tecalliance-vietnam-4728",
+    "title": "Fullstack Dev - AI products (Python)",
+    "company": "TecAlliance Vietnam",
+    "salary": {
+      "type": "hidden",
+      "text": "Sign in to view salary"
+    },
+    "salary_raw": "Sign in to view salary",
+    "city": "Ho Chi Minh",
+    "location": "Hybrid",
+    "category": "",
+    "skills": [
+      "Fullstack",
+      "English",
+      "SQL",
+      "AWS",
+      "AI",
+      "Python"
+    ],
+    "hot_label": "SUPER HOT",
+    "benefits": [],
+    "posted_text": "Posted\n1 day ago",
+    "posted_date": "2026-11-14T07:30:09.503475",
+    "url": "https://itviec.com/it-jobs/fullstack-dev-ai-products-python-tecalliance-vietnam-4728",
+    "source": "itviec",
+    "crawled_at": "2026-11-15T07:30:09.504172"
+  }
+]
